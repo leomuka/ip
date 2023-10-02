@@ -1,646 +1,634 @@
-
-#EXTINF:-1 tvg-id="" tvg-name="AFG: RTA Sport" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/a0d00b163fb3c77ae033d10950b00b33.png" tvg-id2="" group-title="🌍 Afghanistan",AFG: RTA Sport
-http://37.49.225.182:8080/kodicologne/48e237edd2/66167
-#EXTINF:-1 tvg-id="" tvg-name="AFG: Shamshad TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/9081d478591cb14771362d43e50261fc.png" tvg-id2="" group-title="🌍 Afghanistan",AFG: Shamshad TV
-http://37.49.225.182:8080/kodicologne/48e237edd2/159104
-#EXTINF:-1 tvg-id="" tvg-name="AFG: Tamadon TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/8cf8b9760f816f71691f35976975ef32.png" tvg-id2="" group-title="🌍 Afghanistan",AFG: Tamadon TV
-http://37.49.225.182:8080/kodicologne/48e237edd2/54330
-#EXTINF:-1 tvg-id="" tvg-name="AFG: Tolo Haber:" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/23f0ab14266f28f991faa05114aeea5c.png" tvg-id2="" group-title="🌍 Afghanistan",AFG: Tolo Haber:
-http://37.49.225.182:8080/kodicologne/48e237edd2/66181
-#EXTINF:-1 tvg-id="" tvg-name="AFG: Tolo TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/293d47a335824c7b8bb06dbf77762625.png" tvg-id2="" group-title="🌍 Afghanistan",AFG: Tolo TV
-http://37.49.225.182:8080/kodicologne/48e237edd2/66165
-#EXTINF:-1 tvg-id="" tvg-name="AFG: Zarin TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/8091aed99e2d0a7b99c82e2a27d5e89f.png" tvg-id2="" group-title="🌍 Afghanistan",AFG: Zarin TV
-http://37.49.225.182:8080/kodicologne/48e237edd2/196430
-#EXTINF:-1 tvg-id="" tvg-name="AFG: Zhwandoon TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/80b161a8f0a50131795595980c269f23.png" tvg-id2="" group-title="🌍 Afghanistan",AFG: Zhwandoon TV
-http://37.49.225.182:8080/kodicologne/48e237edd2/66172
-#EXTINF:-1 tvg-id="" tvg-name="AL: Arena Sport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/577d05bbbff32984817bb5651dc77549.png" tvg-id2="" group-title="🌍 Albania Spor:",AL: Arena Sport 1
-http://37.49.225.182:8080/kodicologne/48e237edd2/193741
-#EXTINF:-1 tvg-id="" tvg-name="AL: Arena Sport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/14078476ccd04f73e80473edc0a0037c.png" tvg-id2="" group-title="🌍 Albania Spor:",AL: Arena Sport 2
-http://37.49.225.182:8080/kodicologne/48e237edd2/171883
-#EXTINF:-1 tvg-id="" tvg-name="AL: Arena Sport 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/0b368e483f287a3f3e07bab3dd8f652f.png" tvg-id2="" group-title="🌍 Albania Spor:",AL: Arena Sport 4
-http://37.49.225.182:8080/kodicologne/48e237edd2/193744
-#EXTINF:-1 tvg-id="" tvg-name="AL: Arena Sport 5" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/d5681f9e3564d378ff7769b8037581dc.png" tvg-id2="" group-title="🌍 Albania Spor:",AL: Arena Sport 5
-http://37.49.225.182:8080/kodicologne/48e237edd2/57711
-#EXTINF:-1 tvg-id="" tvg-name="AL: ART Sport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/d016a2c0dd5d33df89a4f85a016b9299.png" tvg-id2="" group-title="🌍 Albania Spor:",AL: ART Sport 1
-http://37.49.225.182:8080/kodicologne/48e237edd2/23143
-#EXTINF:-1 tvg-id="" tvg-name="AL: ART Sport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/1f3685cf082119f422fe1bd584cbb48c.png" tvg-id2="" group-title="🌍 Albania Spor:",AL: ART Sport 2
-http://37.49.225.182:8080/kodicologne/48e237edd2/23146
-#EXTINF:-1 tvg-id="" tvg-name="AL: ART Sport 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/7977d0e43fed7b4efd627df97b1a4e29.png" tvg-id2="" group-title="🌍 Albania Spor:",AL: ART Sport 3
-http://37.49.225.182:8080/kodicologne/48e237edd2/40061
-#EXTINF:-1 tvg-id="" tvg-name="AL: ART Sport 4" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/29bd2d194a584b18ac79234629e0e7d3.png" tvg-id2="" group-title="🌍 Albania Spor:",AL: ART Sport 4
-http://37.49.225.182:8080/kodicologne/48e237edd2/295216
-#EXTINF:-1 tvg-id="" tvg-name="AL: ART Sport 5" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/8b1c9902f40ad05adb08639c21185942.png" tvg-id2="" group-title="🌍 Albania Spor:",AL: ART Sport 5
-http://37.49.225.182:8080/kodicologne/48e237edd2/295215
-#EXTINF:-1 tvg-id="" tvg-name="AL: ART Sport 6" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/f1601e8f1df9decd8a254b34fad96173.png" tvg-id2="" group-title="🌍 Albania Spor:",AL: ART Sport 6
-http://37.49.225.182:8080/kodicologne/48e237edd2/295217
-#EXTINF:-1 tvg-id="" tvg-name="AL: EUROSPORT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/f1cecaaf5d587858aabdde39a3a50e15.png" tvg-id2="" group-title="🌍 Albania Spor:",AL: EUROSPORT 1
-http://37.49.225.182:8080/kodicologne/48e237edd2/45047
-#EXTINF:-1 tvg-id="" tvg-name="AL: EUROSPORT 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/58c261282f835c1c845666c27004ad9c.png" tvg-id2="" group-title="🌍 Albania Spor:",AL: EUROSPORT 2
-http://37.49.225.182:8080/kodicologne/48e237edd2/16454
-#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7b4d3d4bcb7f01fc9d9d633995198bff.jpg" tvg-id2="" group-title="🌍 Albania Spor:",AL: Kujtesa Sport 1
-http://37.49.225.182:8080/kodicologne/48e237edd2/1863
-#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0bcdad89b4447a2a1a50f8b6e6f27d2b.jpg" tvg-id2="" group-title="🌍 Albania Spor:",AL: Kujtesa Sport 2
-http://37.49.225.182:8080/kodicologne/48e237edd2/1864
-#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/374268c45e28a927265cafd3d15bca99.jpg" tvg-id2="" group-title="🌍 Albania Spor:",AL: Kujtesa Sport 3
-http://37.49.225.182:8080/kodicologne/48e237edd2/1865
-#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e97db585bf968f9c3df5945b962726d1.jpg" tvg-id2="" group-title="🌍 Albania Spor:",AL: Kujtesa Sport 4
-http://37.49.225.182:8080/kodicologne/48e237edd2/1866
-#EXTINF:-1 tvg-id="" tvg-name="AL: Oversport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/ef8213f5e236a12fb644eb2bcff28ce5.jpeg" tvg-id2="" group-title="🌍 Albania Spor:",AL: Oversport 1
-http://37.49.225.182:8080/kodicologne/48e237edd2/290218
-#EXTINF:-1 tvg-id="" tvg-name="AL: Oversport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/9c8bee846533b2c299d57bddf3d7f0a3.jpeg" tvg-id2="" group-title="🌍 Albania Spor:",AL: Oversport 2
-http://37.49.225.182:8080/kodicologne/48e237edd2/295514
-#EXTINF:-1 tvg-id="" tvg-name="AL: Oversport 3" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/744027c660655a915f50a71f59896a89.jpeg" tvg-id2="" group-title="🌍 Albania Spor:",AL: Oversport 3
-http://37.49.225.182:8080/kodicologne/48e237edd2/290537
-#EXTINF:-1 tvg-id="" tvg-name="AL: Oversport 4" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/2aefeb7ccb3619b0172a1e49c72fb74f.jpeg" tvg-id2="" group-title="🌍 Albania Spor:",AL: Oversport 4
-http://37.49.225.182:8080/kodicologne/48e237edd2/290538
-#EXTINF:-1 tvg-id="" tvg-name="AL: Oversport Haber:" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/2e4a07ad9510fe419531945ecbcb34a2.jpeg" tvg-id2="" group-title="🌍 Albania Spor:",AL: Oversport Haber:
-http://37.49.225.182:8080/kodicologne/48e237edd2/298898
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Sport" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/bf23238a743c9feae86249cae1e285d3.svg" tvg-id2="" group-title="🌍 Albania Spor:",AL: RTSH Sport
-http://37.49.225.182:8080/kodicologne/48e237edd2/2568
-#EXTINF:-1 tvg-id="" tvg-name="AL: SuperSport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/9519a058698941aadb6473f8721e58b1.png" tvg-id2="" group-title="🌍 Albania Spor:",AL: SuperSport 2
-http://37.49.225.182:8080/kodicologne/48e237edd2/1312
-#EXTINF:-1 tvg-id="" tvg-name="AL: SuperSport 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/dd3c9c967ec530a8b19978ca6aac4588.png" tvg-id2="" group-title="🌍 Albania Spor:",AL: SuperSport 3
-http://37.49.225.182:8080/kodicologne/48e237edd2/1319
-#EXTINF:-1 tvg-id="" tvg-name="AL: SuperSport 4" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/e0c350049cb9584a4a13c63aaf405857.png" tvg-id2="" group-title="🌍 Albania Spor:",AL: SuperSport 4
-http://37.49.225.182:8080/kodicologne/48e237edd2/1318
-#EXTINF:-1 tvg-id="" tvg-name="AL: SuperSport 5" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/c6be34175b71784909e9493c29135344.png" tvg-id2="" group-title="🌍 Albania Spor:",AL: SuperSport 5
-http://37.49.225.182:8080/kodicologne/48e237edd2/1860
-#EXTINF:-1 tvg-id="" tvg-name="AL: SuperSport 6" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/f2f8128ce788087140b3d84a313fe6e8.png" tvg-id2="" group-title="🌍 Albania Spor:",AL: SuperSport 6
-http://37.49.225.182:8080/kodicologne/48e237edd2/3638
-#EXTINF:-1 tvg-id="" tvg-name="AL: SuperSport 7" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/90b0f1e0b931a25f5257b5ff05e96fe5.png" tvg-id2="" group-title="🌍 Albania Spor:",AL: SuperSport 7
-http://37.49.225.182:8080/kodicologne/48e237edd2/174441
-#EXTINF:-1 tvg-id="" tvg-name="AL: SuperSport Haber:" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/aefe50d9ab73b8233ce7f0bf3c44880b.png" tvg-id2="" group-title="🌍 Albania Spor:",AL: SuperSport Haber:
-http://37.49.225.182:8080/kodicologne/48e237edd2/1313
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/159a3e53a509523324405a783571860a.png" tvg-id2="" group-title="🌍 Albania Spor:",AL: Tring Sport 1
-http://37.49.225.182:8080/kodicologne/48e237edd2/1306
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/43c29acadbe04ba7cccb93430e73d373.png" tvg-id2="" group-title="🌍 Albania Spor:",AL: Tring Sport 2
-http://37.49.225.182:8080/kodicologne/48e237edd2/1305
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/85de7720019eb796d9dfe20898807b36.png" tvg-id2="" group-title="🌍 Albania Spor:",AL: Tring Sport 3
-http://37.49.225.182:8080/kodicologne/48e237edd2/1304
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/6a7cf8d9da4b44e4a17d4874a96de13f.png" tvg-id2="" group-title="🌍 Albania Spor:",AL: Tring Sport 4
-http://37.49.225.182:8080/kodicologne/48e237edd2/1862
-#EXTINF:-1 tvg-id="" tvg-name="AL: A2 CNN" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/e6134662a6df54df16e72f147a19a565.svg" tvg-id2="" group-title="🌍 Albania Haber:",AL: A2 CNN
-http://37.49.225.182:8080/kodicologne/48e237edd2/281857
-#EXTINF:-1 tvg-id="" tvg-name="AL: ABC" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/fb31ad95ec4bbc4be881e750ea856a89.png" tvg-id2="" group-title="🌍 Albania Haber:",AL: ABC
-http://37.49.225.182:8080/kodicologne/48e237edd2/2551
-#EXTINF:-1 tvg-id="" tvg-name="AL: euronews" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/cee60d23cf0e39f75c012c4e67bc1985.png" tvg-id2="" group-title="🌍 Albania Haber:",AL: euronews
-http://37.49.225.182:8080/kodicologne/48e237edd2/169839
-#EXTINF:-1 tvg-id="" tvg-name="AL: Fax Haber:" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/65259128a7f8d93d9f19f846179231fe.png" tvg-id2="" group-title="🌍 Albania Haber:",AL: Fax Haber:
-http://37.49.225.182:8080/kodicologne/48e237edd2/5136
-#EXTINF:-1 tvg-id="" tvg-name="AL: Kanal 10" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/c655613efc4c5e1acbb02c59c874c2fb.png" tvg-id2="" group-title="🌍 Albania Haber:",AL: Kanal 10
-http://37.49.225.182:8080/kodicologne/48e237edd2/198840
-#EXTINF:-1 tvg-id="" tvg-name="AL: Klan Haber:" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/0d8ad0f34c08fc3c2c450416dce507c6.png" tvg-id2="" group-title="🌍 Albania Haber:",AL: Klan Haber:
-http://37.49.225.182:8080/kodicologne/48e237edd2/296554
-#EXTINF:-1 tvg-id="" tvg-name="AL: Neser TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/aca3796a7bbd98f95a297f8c77d4049a.png" tvg-id2="" group-title="🌍 Albania Haber:",AL: Neser TV
-http://37.49.225.182:8080/kodicologne/48e237edd2/290455
-#EXTINF:-1 tvg-id="" tvg-name="AL: Haber: 24" tvg-logo="http://s3.i3ns.net/portal/picon/2023-09/ab1944806491152eb48a5538c89394ee.png" tvg-id2="" group-title="🌍 Albania Haber:",AL: Haber: 24
-http://37.49.225.182:8080/kodicologne/48e237edd2/299812
-#EXTINF:-1 tvg-id="" tvg-name="AL: Ora Haber:" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/d4ac2713819e179c78c678ae6c1636bb.png" tvg-id2="" group-title="🌍 Albania Haber:",AL: Ora Haber:
-http://37.49.225.182:8080/kodicologne/48e237edd2/5126
-#EXTINF:-1 tvg-id="" tvg-name="AL: Report TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/144beb981ee21f4b042307d63fb10d30.png" tvg-id2="" group-title="🌍 Albania Haber:",AL: Report TV
-http://37.49.225.182:8080/kodicologne/48e237edd2/4077
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH 24" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/cdb42292d9c45ae1db8241b4fdcc0dd2.svg" tvg-id2="" group-title="🌍 Albania Haber:",AL: RTSH 24
-http://37.49.225.182:8080/kodicologne/48e237edd2/5962
-#EXTINF:-1 tvg-id="" tvg-name="AL: Scan" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/385c653e4f513cf21f7aca72c7b3cba7.png" tvg-id2="" group-title="🌍 Albania Haber:",AL: Scan
-http://37.49.225.182:8080/kodicologne/48e237edd2/23735
-#EXTINF:-1 tvg-id="" tvg-name="AL: Syri Haber:" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/0e4a3cf3786007892f41f5146e1194ae.svg" tvg-id2="" group-title="🌍 Albania Haber:",AL: Syri Haber:
-http://37.49.225.182:8080/kodicologne/48e237edd2/4100
-#EXTINF:-1 tvg-id="" tvg-name="AL: TOP Haber:" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/eba7a81a10dcbc247ee6245ced118cf8.png" tvg-id2="" group-title="🌍 Albania Haber:",AL: TOP Haber:
-http://37.49.225.182:8080/kodicologne/48e237edd2/5122
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport Haber:" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/d336e84b188eca200534666d82b422c9.png" tvg-id2="" group-title="🌍 Albania Haber:",AL: Tring Sport Haber:
-http://37.49.225.182:8080/kodicologne/48e237edd2/1861
-#EXTINF:-1 tvg-id="" tvg-name="AL: TV Klan" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/46595988f0083f19afd11068bd05c6d0.png" tvg-id2="" group-title="🌍 Albania Haber:",AL: TV Klan
-http://37.49.225.182:8080/kodicologne/48e237edd2/1853
-#EXTINF:-1 tvg-id="" tvg-name="AL: 24 Kitchen" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/0bc804a09638d8aec9bfa209a7fa027a.png" tvg-id2="" group-title="🌍 Albania Ulusal:",AL: 24 Kitchen
-http://37.49.225.182:8080/kodicologne/48e237edd2/1343
-#EXTINF:-1 tvg-id="" tvg-name="AL: ATV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/fc491afbd5e05e744fa0d4d257780b36.png" tvg-id2="" group-title="🌍 Albania Ulusal:",AL: ATV
-http://37.49.225.182:8080/kodicologne/48e237edd2/65844
-#EXTINF:-1 tvg-id="" tvg-name="AL: Big Brother 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania Ulusal:",AL: Big Brother 1
-http://37.49.225.182:8080/kodicologne/48e237edd2/297206
-#EXTINF:-1 tvg-id="" tvg-name="AL: Big Brother 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania Ulusal:",AL: Big Brother 2
-http://37.49.225.182:8080/kodicologne/48e237edd2/297207
-#EXTINF:-1 tvg-id="" tvg-name="AL: Elrodi TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/a0a4ddd17042ba3635b68af08c08c370.png" tvg-id2="" group-title="🌍 Albania Ulusal:",AL: Elrodi TV
-http://37.49.225.182:8080/kodicologne/48e237edd2/2557
-#EXTINF:-1 tvg-id="" tvg-name="AL: Explorer Shkence" tvg-logo="http://s3.i3ns.net/portal/picon/2021-02/7a79ebe3df2d6efb9fb670aedcc397d0.png" tvg-id2="" group-title="🌍 Albania Ulusal:",AL: Explorer Shkence
-http://37.49.225.182:8080/kodicologne/48e237edd2/5961
-#EXTINF:-1 tvg-id="" tvg-name="AL: First Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/c7fd10691cc843f95f0908905480eea0.png" tvg-id2="" group-title="🌍 Albania Ulusal:",AL: First Channel
-http://37.49.225.182:8080/kodicologne/48e237edd2/298434
-#EXTINF:-1 tvg-id="" tvg-name="AL: Kanali 7" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/55138217ab079c60497daf3f4f722a44.png" tvg-id2="" group-title="🌍 Albania Ulusal:",AL: Kanali 7
-http://37.49.225.182:8080/kodicologne/48e237edd2/4062
-#EXTINF:-1 tvg-id="" tvg-name="AL: Klan Kosova" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/f5069fbc944f9b037859da85c68e725e.png" tvg-id2="" group-title="🌍 Albania Ulusal:",AL: Klan Kosova
-http://37.49.225.182:8080/kodicologne/48e237edd2/2561
-#EXTINF:-1 tvg-id="" tvg-name="AL: Klan Macedonia" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/281a31d9f421e66d8c66fdb3be008957.png" tvg-id2="" group-title="🌍 Albania Ulusal:",AL: Klan Macedonia
-http://37.49.225.182:8080/kodicologne/48e237edd2/296555
-#EXTINF:-1 tvg-id="" tvg-name="AL: Klan Plus" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/f366c3269e64ff77d0a400580951a96e.png" tvg-id2="" group-title="🌍 Albania Ulusal:",AL: Klan Plus
-http://37.49.225.182:8080/kodicologne/48e237edd2/2562
-#EXTINF:-1 tvg-id="" tvg-name="AL: Koha TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e2ced51fa8b30b734ccf765b85b7f2f8.jpg" tvg-id2="" group-title="🌍 Albania Ulusal:",AL: Koha TV
-http://37.49.225.182:8080/kodicologne/48e237edd2/4115
-#EXTINF:-1 tvg-id="" tvg-name="AL: KTV Kohavision" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/35bb4fd82d973921030f0189694522fa.jpg" tvg-id2="" group-title="🌍 Albania Ulusal:",AL: KTV Kohavision
-http://37.49.225.182:8080/kodicologne/48e237edd2/201094
-#EXTINF:-1 tvg-id="" tvg-name="AL: Living" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e2d646e5b32546a6dbe83001b0414e56.png" tvg-id2="" group-title="🌍 Albania Ulusal:",AL: Living
-http://37.49.225.182:8080/kodicologne/48e237edd2/4070
-#EXTINF:-1 tvg-id="" tvg-name="AL: MCN TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/84328831fa19ad420ea7f1520d33bfa3.png" tvg-id2="" group-title="🌍 Albania Ulusal:",AL: MCN TV
-http://37.49.225.182:8080/kodicologne/48e237edd2/286798
-#EXTINF:-1 tvg-id="" tvg-name="AL: Muse TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/8c1c24c42cedcc683029fe78e86f2b2f.png" tvg-id2="" group-title="🌍 Albania Ulusal:",AL: Muse TV
-http://37.49.225.182:8080/kodicologne/48e237edd2/4072
-#EXTINF:-1 tvg-id="" tvg-name="AL: Ora" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/eef7666644595f5e056adf5620d97a4d.png" tvg-id2="" group-title="🌍 Albania Ulusal:",AL: Ora
-http://37.49.225.182:8080/kodicologne/48e237edd2/163104
-#EXTINF:-1 tvg-id="" tvg-name="AL: Peace TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/127fed99e14527d5771aee47da055db8.jpeg" tvg-id2="" group-title="🌍 Albania Ulusal:",AL: Peace TV
-http://37.49.225.182:8080/kodicologne/48e237edd2/15562
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTK 1" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/baf7bf76cef98f2e6f0d3fa9e836f896.png" tvg-id2="" group-title="🌍 Albania Ulusal:",AL: RTK 1
-http://37.49.225.182:8080/kodicologne/48e237edd2/298417
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTK 2" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/3620d8e55b1b27057d07e50b7d83aa72.png" tvg-id2="" group-title="🌍 Albania Ulusal:",AL: RTK 2
-http://37.49.225.182:8080/kodicologne/48e237edd2/298418
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTK 3" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/4bf5e68cebdfd6adfbbba71cacef99b0.png" tvg-id2="" group-title="🌍 Albania Ulusal:",AL: RTK 3
-http://37.49.225.182:8080/kodicologne/48e237edd2/298419
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTK 4" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/7a736f678334e0caec808dca464e5c95.png" tvg-id2="" group-title="🌍 Albania Ulusal:",AL: RTK 4
-http://37.49.225.182:8080/kodicologne/48e237edd2/298420
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/0f9e089f10181b4032a1060569407a01.svg" tvg-id2="" group-title="🌍 Albania Ulusal:",AL: RTSH 1
-http://37.49.225.182:8080/kodicologne/48e237edd2/4123
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/35773f95678e4a4dfdc623c9bb0c77fa.svg" tvg-id2="" group-title="🌍 Albania Ulusal:",AL: RTSH 2
-http://37.49.225.182:8080/kodicologne/48e237edd2/1854
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH 3" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/96aa53d22c69879794fb269ab38caf92.svg" tvg-id2="" group-title="🌍 Albania Ulusal:",AL: RTSH 3
-http://37.49.225.182:8080/kodicologne/48e237edd2/1855
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Agro" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/2220440114a101fd1eaa2e69b4e2d4a3.svg" tvg-id2="" group-title="🌍 Albania Ulusal:",AL: RTSH Agro
-http://37.49.225.182:8080/kodicologne/48e237edd2/193717
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Femije" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/1fb8b7d702106a0099b78893f5b696ee.svg" tvg-id2="" group-title="🌍 Albania Ulusal:",AL: RTSH Femije
-http://37.49.225.182:8080/kodicologne/48e237edd2/5146
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Gjirokastra" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/74abeaf2819ce0729b7f00581b28e62e.svg" tvg-id2="" group-title="🌍 Albania Ulusal:",AL: RTSH Gjirokastra
-http://37.49.225.182:8080/kodicologne/48e237edd2/23700
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Korca" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/11be00f9db7f484c48609adfb297238f.svg" tvg-id2="" group-title="🌍 Albania Ulusal:",AL: RTSH Korca
-http://37.49.225.182:8080/kodicologne/48e237edd2/23708
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Kukesi" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/19a49e326e628155a8d7a8db1a20e3a5.svg" tvg-id2="" group-title="🌍 Albania Ulusal:",AL: RTSH Kukesi
-http://37.49.225.182:8080/kodicologne/48e237edd2/198663
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Kuvend" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/877ce84eca21eea5cc4cc52043c73cdc.svg" tvg-id2="" group-title="🌍 Albania Ulusal:",AL: RTSH Kuvend
-http://37.49.225.182:8080/kodicologne/48e237edd2/22434
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Plus" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/b6f004251405caa3b5c1aa3d2426a15c.svg" tvg-id2="" group-title="🌍 Albania Ulusal:",AL: RTSH Plus
-http://37.49.225.182:8080/kodicologne/48e237edd2/169831
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Satelit" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/903acb92b2b1674561636bd877d9adc3.png" tvg-id2="" group-title="🌍 Albania Ulusal:",AL: RTSH Satelit
-http://37.49.225.182:8080/kodicologne/48e237edd2/282301
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Shkodra" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/24bd976221001ff80c027daa5b7ac8e4.png" tvg-id2="" group-title="🌍 Albania Ulusal:",AL: RTSH Shkodra
-http://37.49.225.182:8080/kodicologne/48e237edd2/284742
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Shkolle" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/174d4bcd7f28a11ac1f7542675c1e961.svg" tvg-id2="" group-title="🌍 Albania Ulusal:",AL: RTSH Shkolle
-http://37.49.225.182:8080/kodicologne/48e237edd2/1856
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTV 21" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/2c4f7f62b27a589f916baedaacdd3882.png" tvg-id2="" group-title="🌍 Albania Ulusal:",AL: RTV 21
-http://37.49.225.182:8080/kodicologne/48e237edd2/298421
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTV 21 Mix" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/950f993e563b9f14c58e8a4db540ed37.png" tvg-id2="" group-title="🌍 Albania Ulusal:",AL: RTV 21 Mix
-http://37.49.225.182:8080/kodicologne/48e237edd2/4086
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTV 21 Plus" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/1b4040b73ebd15c45debb44748c4bf59.png" tvg-id2="" group-title="🌍 Albania Ulusal:",AL: RTV 21 Plus
-http://37.49.225.182:8080/kodicologne/48e237edd2/298423
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTV 21 Popullore" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/7eb2ffd0462211537a78abc809bd6ab7.png" tvg-id2="" group-title="🌍 Albania Ulusal:",AL: RTV 21 Popullore
-http://37.49.225.182:8080/kodicologne/48e237edd2/298424
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTV Dukagjini" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/fa3c38ea620be6656c37ec59faa83bdd.png" tvg-id2="" group-title="🌍 Albania Ulusal:",AL: RTV Dukagjini
-http://37.49.225.182:8080/kodicologne/48e237edd2/6708
-#EXTINF:-1 tvg-id="" tvg-name="AL: Star Plus" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/aeb4d3ba777598eb409ebf6d6a1f7e2f.png" tvg-id2="" group-title="🌍 Albania Ulusal:",AL: Star Plus
-http://37.49.225.182:8080/kodicologne/48e237edd2/12428
-#EXTINF:-1 tvg-id="" tvg-name="AL: T7" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/e51ec8d204406e82257fc581fca5616a.png" tvg-id2="" group-title="🌍 Albania Ulusal:",AL: T7
-http://37.49.225.182:8080/kodicologne/48e237edd2/281851
-#EXTINF:-1 tvg-id="" tvg-name="AL: Teve 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/8973cd61db359bdb4c411314127da4a0.png" tvg-id2="" group-title="🌍 Albania Ulusal:",AL: Teve 1
-http://37.49.225.182:8080/kodicologne/48e237edd2/295527
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tip TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/4d9ee786fddd6132b4f5954940f272dd.png" tvg-id2="" group-title="🌍 Albania Ulusal:",AL: Tip TV
-http://37.49.225.182:8080/kodicologne/48e237edd2/2574
-#EXTINF:-1 tvg-id="" tvg-name="AL: TOP Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/ccdd2ccdf1cface8d5a14186566daf84.png" tvg-id2="" group-title="🌍 Albania Ulusal:",AL: TOP Channel
-http://37.49.225.182:8080/kodicologne/48e237edd2/1311
-#EXTINF:-1 tvg-id="" tvg-name="AL: TV 21 Macedonia" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ed5d29ea9bb9627a5c7b0e419c74c204.png" tvg-id2="" group-title="🌍 Albania Ulusal:",AL: TV 21 Macedonia
-http://37.49.225.182:8080/kodicologne/48e237edd2/298425
-#EXTINF:-1 tvg-id="" tvg-name="AL: Vizion Plus" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/81af6d3489034eab2c610279a903cd4f.png" tvg-id2="" group-title="🌍 Albania Ulusal:",AL: Vizion Plus
-http://37.49.225.182:8080/kodicologne/48e237edd2/1299
-#EXTINF:-1 tvg-id="" tvg-name="AL: 8ova BBF" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: 8ova BBF
-http://37.49.225.182:8080/kodicologne/48e237edd2/263768
-#EXTINF:-1 tvg-id="" tvg-name="AL: 8ova Drame" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: 8ova Drame
-http://37.49.225.182:8080/kodicologne/48e237edd2/263766
-#EXTINF:-1 tvg-id="" tvg-name="AL: 8ova Gjurme Shqiptare" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: 8ova Gjurme Shqiptare
-http://37.49.225.182:8080/kodicologne/48e237edd2/193733
-#EXTINF:-1 tvg-id="" tvg-name="AL: 8ova Humor" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: 8ova Humor
-http://37.49.225.182:8080/kodicologne/48e237edd2/263772
-#EXTINF:-1 tvg-id="" tvg-name="AL: 8ova Komedi" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: 8ova Komedi
-http://37.49.225.182:8080/kodicologne/48e237edd2/263767
-#EXTINF:-1 tvg-id="" tvg-name="AL: 8ova Masha Bear" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: 8ova Masha Bear
-http://37.49.225.182:8080/kodicologne/48e237edd2/299048
-#EXTINF:-1 tvg-id="" tvg-name="AL: 8ova Muzik" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: 8ova Muzik
-http://37.49.225.182:8080/kodicologne/48e237edd2/299047
-#EXTINF:-1 tvg-id="" tvg-name="AL: 8ova Popullore" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: 8ova Popullore
-http://37.49.225.182:8080/kodicologne/48e237edd2/263773
-#EXTINF:-1 tvg-id="" tvg-name="AL: 8ova Thriller" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: 8ova Thriller
-http://37.49.225.182:8080/kodicologne/48e237edd2/263765
-#EXTINF:-1 tvg-id="" tvg-name="AL: AA Network" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: AA Network
-http://37.49.225.182:8080/kodicologne/48e237edd2/297251
-#EXTINF:-1 tvg-id="" tvg-name="AL: ACTV Michigan" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: ACTV Michigan
-http://37.49.225.182:8080/kodicologne/48e237edd2/299861
-#EXTINF:-1 tvg-id="" tvg-name="AL: ALB Müzik:" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/1c75920e78b913e57a9a9b9e9d2005db.png" tvg-id2="" group-title="🌍 Albania",AL: ALB Müzik:
-http://37.49.225.182:8080/kodicologne/48e237edd2/44994
-#EXTINF:-1 tvg-id="" tvg-name="AL: Alb Swiss" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/06509b8b29e26f2b34a0a0c28e2128c3.png" tvg-id2="" group-title="🌍 Albania",AL: Alb Swiss
-http://37.49.225.182:8080/kodicologne/48e237edd2/12437
-#EXTINF:-1 tvg-id="" tvg-name="AL: Albanian TV Chicago" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/2411e6e066ebfcc8d6c5b9b4e9a76065.jfif" tvg-id2="" group-title="🌍 Albania",AL: Albanian TV Chicago
-http://37.49.225.182:8080/kodicologne/48e237edd2/297257
-#EXTINF:-1 tvg-id="" tvg-name="AL: Albkanale Muzik" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/fdbba100c22bd4f8989cdce644343140.png" tvg-id2="" group-title="🌍 Albania",AL: Albkanale Muzik
-http://37.49.225.182:8080/kodicologne/48e237edd2/295858
-#EXTINF:-1 tvg-id="" tvg-name="AL: Albuk" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/5bff9d821ee487f9df8d1e70eb830194.png" tvg-id2="" group-title="🌍 Albania",AL: Albuk
-http://37.49.225.182:8080/kodicologne/48e237edd2/4037
-#EXTINF:-1 tvg-id="" tvg-name="AL: Alpo" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/d29d9fbb2c0cd93b3b8f04b5330f597e.jpg" tvg-id2="" group-title="🌍 Albania",AL: Alpo
-http://37.49.225.182:8080/kodicologne/48e237edd2/278528
-#EXTINF:-1 tvg-id="" tvg-name="AL: Amol TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/94dda95426bbaef8ac2cc9244ec6dcda.png" tvg-id2="" group-title="🌍 Albania",AL: Amol TV
-http://37.49.225.182:8080/kodicologne/48e237edd2/281387
-#EXTINF:-1 tvg-id="" tvg-name="AL: Apollon TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/48539aa3304c2a7b0ff845e5aa645c7e.jpg" tvg-id2="" group-title="🌍 Albania",AL: Apollon TV
-http://37.49.225.182:8080/kodicologne/48e237edd2/267037
-#EXTINF:-1 tvg-id="" tvg-name="AL: Art Doku 1" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/0a29f149fdf9ea0b75c430524b097d38.png" tvg-id2="" group-title="🌍 Albania",AL: Art Doku 1
-http://37.49.225.182:8080/kodicologne/48e237edd2/146080
-#EXTINF:-1 tvg-id="" tvg-name="AL: Art Doku 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/b4c398265f61972391d66dc127cad1bb.png" tvg-id2="" group-title="🌍 Albania",AL: Art Doku 2
-http://37.49.225.182:8080/kodicologne/48e237edd2/146081
-#EXTINF:-1 tvg-id="" tvg-name="AL: Art Kino 1" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/7fe45f2f1833f7f70be27cb3dc073c39.png" tvg-id2="" group-title="🌍 Albania",AL: Art Kino 1
-http://37.49.225.182:8080/kodicologne/48e237edd2/146084
-#EXTINF:-1 tvg-id="" tvg-name="AL: Art Kino 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/8f5cb8018c2f482d7bc3aebecf5d5e87.png" tvg-id2="" group-title="🌍 Albania",AL: Art Kino 2
-http://37.49.225.182:8080/kodicologne/48e237edd2/146085
-#EXTINF:-1 tvg-id="" tvg-name="AL: Art Kino 3" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/48fe0b00bb6214ce00ed429c2004ffa0.png" tvg-id2="" group-title="🌍 Albania",AL: Art Kino 3
-http://37.49.225.182:8080/kodicologne/48e237edd2/146086
-#EXTINF:-1 tvg-id="" tvg-name="AL: Ashkali TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Ashkali TV
-http://37.49.225.182:8080/kodicologne/48e237edd2/193769
-#EXTINF:-1 tvg-id="" tvg-name="AL: Atd TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Atd TV
-http://37.49.225.182:8080/kodicologne/48e237edd2/278531
-#EXTINF:-1 tvg-id="" tvg-name="AL: Besa TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0a91d2c1caa0fca1a548de9508c8a9ad.png" tvg-id2="" group-title="🌍 Albania",AL: Besa TV
-http://37.49.225.182:8080/kodicologne/48e237edd2/4042
-#EXTINF:-1 tvg-id="" tvg-name="AL: Blue Sky TV" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/3ae3d95f9a89d075685c14b5ae675808.png" tvg-id2="" group-title="🌍 Albania",AL: Blue Sky TV
-http://37.49.225.182:8080/kodicologne/48e237edd2/151757
-#EXTINF:-1 tvg-id="" tvg-name="AL: Cinema 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Cinema 1
-http://37.49.225.182:8080/kodicologne/48e237edd2/295552
-#EXTINF:-1 tvg-id="" tvg-name="AL: Cinema 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Cinema 2
-http://37.49.225.182:8080/kodicologne/48e237edd2/295551
-#EXTINF:-1 tvg-id="" tvg-name="AL: Dark Balada" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Dark Balada
-http://37.49.225.182:8080/kodicologne/48e237edd2/266409
-#EXTINF:-1 tvg-id="" tvg-name="AL: Dark Cka ka Shpia" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Dark Cka ka Shpia
-http://37.49.225.182:8080/kodicologne/48e237edd2/166521
-#EXTINF:-1 tvg-id="" tvg-name="AL: Dark Fara e Flliqt" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Dark Fara e Flliqt
-http://37.49.225.182:8080/kodicologne/48e237edd2/266416
-#EXTINF:-1 tvg-id="" tvg-name="AL: Dark Kafeneja jone" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Dark Kafeneja jone
-http://37.49.225.182:8080/kodicologne/48e237edd2/188264
-#EXTINF:-1 tvg-id="" tvg-name="AL: Dark Popullore" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Dark Popullore
-http://37.49.225.182:8080/kodicologne/48e237edd2/166533
-#EXTINF:-1 tvg-id="" tvg-name="AL: Dark Stupcat Skeçe" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Dark Stupcat Skeçe
-http://37.49.225.182:8080/kodicologne/48e237edd2/166520
-#EXTINF:-1 tvg-id="" tvg-name="AL: Dark Tallava" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Dark Tallava
-http://37.49.225.182:8080/kodicologne/48e237edd2/166536
-#EXTINF:-1 tvg-id="" tvg-name="AL: Dasma" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Dasma
-http://37.49.225.182:8080/kodicologne/48e237edd2/8288
-#EXTINF:-1 tvg-id="" tvg-name="AL: Digi Gold 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Digi Gold 1
-http://37.49.225.182:8080/kodicologne/48e237edd2/281904
-#EXTINF:-1 tvg-id="" tvg-name="AL: Digi Gold 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Digi Gold 2
-http://37.49.225.182:8080/kodicologne/48e237edd2/299060
-#EXTINF:-1 tvg-id="" tvg-name="AL: Digi Gold 4" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Digi Gold 4
-http://37.49.225.182:8080/kodicologne/48e237edd2/281907
-#EXTINF:-1 tvg-id="" tvg-name="AL: Drita TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/eef24b5325b4ef4f581c2bb68ec7c942.png" tvg-id2="" group-title="🌍 Albania",AL: Drita TV
-http://37.49.225.182:8080/kodicologne/48e237edd2/41318
-#EXTINF:-1 tvg-id="" tvg-name="AL: EB Festive" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: EB Festive
-http://37.49.225.182:8080/kodicologne/48e237edd2/297193
-#EXTINF:-1 tvg-id="" tvg-name="AL: EB Festive 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: EB Festive 1
-http://37.49.225.182:8080/kodicologne/48e237edd2/297194
-#EXTINF:-1 tvg-id="" tvg-name="AL: EB Festive 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: EB Festive 2
-http://37.49.225.182:8080/kodicologne/48e237edd2/297195
-#EXTINF:-1 tvg-id="" tvg-name="AL: EB Festive 3" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: EB Festive 3
-http://37.49.225.182:8080/kodicologne/48e237edd2/297196
-#EXTINF:-1 tvg-id="" tvg-name="AL: EB Festive 4" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: EB Festive 4
-http://37.49.225.182:8080/kodicologne/48e237edd2/297197
-#EXTINF:-1 tvg-id="" tvg-name="AL: EB Festive 5" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: EB Festive 5
-http://37.49.225.182:8080/kodicologne/48e237edd2/297198
-#EXTINF:-1 tvg-id="" tvg-name="AL: EB Festive 6" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: EB Festive 6
-http://37.49.225.182:8080/kodicologne/48e237edd2/297199
-#EXTINF:-1 tvg-id="" tvg-name="AL: EB Festive 7" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: EB Festive 7
-http://37.49.225.182:8080/kodicologne/48e237edd2/297200
-#EXTINF:-1 tvg-id="" tvg-name="AL: EB Festive 8" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: EB Festive 8
-http://37.49.225.182:8080/kodicologne/48e237edd2/297201
-#EXTINF:-1 tvg-id="" tvg-name="AL: EB Festive Sofra" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: EB Festive Sofra
-http://37.49.225.182:8080/kodicologne/48e237edd2/297202
-#EXTINF:-1 tvg-id="" tvg-name="AL: EB Hits" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: EB Hits
-http://37.49.225.182:8080/kodicologne/48e237edd2/297192
-#EXTINF:-1 tvg-id="" tvg-name="AL: Elkalem TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/9c67ae1d1da5485a41967e6429bf5f7d.jpg" tvg-id2="" group-title="🌍 Albania",AL: Elkalem TV
-http://37.49.225.182:8080/kodicologne/48e237edd2/294445
-#EXTINF:-1 tvg-id="" tvg-name="AL: Episode" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Episode
-http://37.49.225.182:8080/kodicologne/48e237edd2/169877
-#EXTINF:-1 tvg-id="" tvg-name="AL: Era TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/e4ca153def19020ce3be1bc6d5cf91c8.png" tvg-id2="" group-title="🌍 Albania",AL: Era TV
-http://37.49.225.182:8080/kodicologne/48e237edd2/13864
-#EXTINF:-1 tvg-id="" tvg-name="AL: Euro Al" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5e5fbc5b4a9cbaf591b2dd67b81fb7f2.png" tvg-id2="" group-title="🌍 Albania",AL: Euro Al
-http://37.49.225.182:8080/kodicologne/48e237edd2/42818
-#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Action AL" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: Filma24 Action AL
-http://37.49.225.182:8080/kodicologne/48e237edd2/299888
-#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Adventure" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: Filma24 Adventure
-http://37.49.225.182:8080/kodicologne/48e237edd2/299863
-#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Aksion" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: Filma24 Aksion
-http://37.49.225.182:8080/kodicologne/48e237edd2/299864
-#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Animation" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: Filma24 Animation
-http://37.49.225.182:8080/kodicologne/48e237edd2/299865
-#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Animuar AL" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: Filma24 Animuar AL
-http://37.49.225.182:8080/kodicologne/48e237edd2/299889
-#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Aventure AL" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: Filma24 Aventure AL
-http://37.49.225.182:8080/kodicologne/48e237edd2/299890
-#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Aziatik" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: Filma24 Aziatik
-http://37.49.225.182:8080/kodicologne/48e237edd2/299866
-#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Biografi" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: Filma24 Biografi
-http://37.49.225.182:8080/kodicologne/48e237edd2/299868
-#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Biografi AL" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: Filma24 Biografi AL
-http://37.49.225.182:8080/kodicologne/48e237edd2/299891
-#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Dokumentar" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: Filma24 Dokumentar
-http://37.49.225.182:8080/kodicologne/48e237edd2/299867
-#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Drama AL" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: Filma24 Drama AL
-http://37.49.225.182:8080/kodicologne/48e237edd2/299895
-#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Drame" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: Filma24 Drame
-http://37.49.225.182:8080/kodicologne/48e237edd2/299869
-#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Family" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: Filma24 Family
-http://37.49.225.182:8080/kodicologne/48e237edd2/299870
-#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Fantasy AL" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: Filma24 Fantasy AL
-http://37.49.225.182:8080/kodicologne/48e237edd2/299893
-#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Fantazi" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: Filma24 Fantazi
-http://37.49.225.182:8080/kodicologne/48e237edd2/299871
-#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Hindi" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: Filma24 Hindi
-http://37.49.225.182:8080/kodicologne/48e237edd2/299872
-#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Histori AL" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: Filma24 Histori AL
-http://37.49.225.182:8080/kodicologne/48e237edd2/299896
-#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 History" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: Filma24 History
-http://37.49.225.182:8080/kodicologne/48e237edd2/299874
-#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Hits" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: Filma24 Hits
-http://37.49.225.182:8080/kodicologne/48e237edd2/299873
-#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Horror" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: Filma24 Horror
-http://37.49.225.182:8080/kodicologne/48e237edd2/299875
-#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Komedi" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: Filma24 Komedi
-http://37.49.225.182:8080/kodicologne/48e237edd2/299876
-#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Komedi AL" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: Filma24 Komedi AL
-http://37.49.225.182:8080/kodicologne/48e237edd2/299894
-#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Krim" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: Filma24 Krim
-http://37.49.225.182:8080/kodicologne/48e237edd2/299877
-#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Mister" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: Filma24 Mister
-http://37.49.225.182:8080/kodicologne/48e237edd2/299878
-#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Mister AL" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: Filma24 Mister AL
-http://37.49.225.182:8080/kodicologne/48e237edd2/299897
-#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Premiere" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: Filma24 Premiere
-http://37.49.225.182:8080/kodicologne/48e237edd2/299880
-#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Premiere ALB" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: Filma24 Premiere ALB
-http://37.49.225.182:8080/kodicologne/48e237edd2/299881
-#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Romance" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: Filma24 Romance
-http://37.49.225.182:8080/kodicologne/48e237edd2/299882
-#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Romance AL" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: Filma24 Romance AL
-http://37.49.225.182:8080/kodicologne/48e237edd2/299898
-#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 SCI-Fi" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: Filma24 SCI-Fi
-http://37.49.225.182:8080/kodicologne/48e237edd2/299883
-#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Triller" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: Filma24 Triller
-http://37.49.225.182:8080/kodicologne/48e237edd2/299884
-#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Turk" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: Filma24 Turk
-http://37.49.225.182:8080/kodicologne/48e237edd2/299885
-#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 War" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: Filma24 War
-http://37.49.225.182:8080/kodicologne/48e237edd2/299886
-#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Western" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: Filma24 Western
-http://37.49.225.182:8080/kodicologne/48e237edd2/299887
-#EXTINF:-1 tvg-id="" tvg-name="AL: Flutra" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Flutra
-http://37.49.225.182:8080/kodicologne/48e237edd2/280142
-#EXTINF:-1 tvg-id="" tvg-name="AL: Folklorit" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/36a7fecfaad1576730e88ef51e6003a1.jpg" tvg-id2="" group-title="🌍 Albania",AL: Folklorit
-http://37.49.225.182:8080/kodicologne/48e237edd2/278192
-#EXTINF:-1 tvg-id="" tvg-name="AL: Frame TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/2b4d5c71e270a57e8de06689c6d2b71a.jpg" tvg-id2="" group-title="🌍 Albania",AL: Frame TV
-http://37.49.225.182:8080/kodicologne/48e237edd2/281967
-#EXTINF:-1 tvg-id="" tvg-name="AL: Globi TV" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/dcf230fa8c6c1b0499b52ad97eabfc04.png" tvg-id2="" group-title="🌍 Albania",AL: Globi TV
-http://37.49.225.182:8080/kodicologne/48e237edd2/280161
-#EXTINF:-1 tvg-id="" tvg-name="AL: Histori Shqiptare" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/26cc28df4182f9d45f2da7a98a813b77.png" tvg-id2="" group-title="🌍 Albania",AL: Histori Shqiptare
-http://37.49.225.182:8080/kodicologne/48e237edd2/297048
-#EXTINF:-1 tvg-id="" tvg-name="AL: HS Hore" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: HS Hore
-http://37.49.225.182:8080/kodicologne/48e237edd2/299063
-#EXTINF:-1 tvg-id="" tvg-name="AL: HS Tallava" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: HS Tallava
-http://37.49.225.182:8080/kodicologne/48e237edd2/6715
-#EXTINF:-1 tvg-id="" tvg-name="AL: Istogu Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/6a7c815152522f3a3208afe0b759235d.png" tvg-id2="" group-title="🌍 Albania",AL: Istogu Channel
-http://37.49.225.182:8080/kodicologne/48e237edd2/41305
-#EXTINF:-1 tvg-id="" tvg-name="AL: Korca Plus" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/a2777d3b5d9060d988bbe7c4075927fd.png" tvg-id2="" group-title="🌍 Albania",AL: Korca Plus
-http://37.49.225.182:8080/kodicologne/48e237edd2/294434
-#EXTINF:-1 tvg-id="" tvg-name="AL: KS Filma24 Aksion" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: KS Filma24 Aksion
-http://37.49.225.182:8080/kodicologne/48e237edd2/297261
-#EXTINF:-1 tvg-id="" tvg-name="AL: KS Filma24 Animacion" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: KS Filma24 Animacion
-http://37.49.225.182:8080/kodicologne/48e237edd2/297262
-#EXTINF:-1 tvg-id="" tvg-name="AL: KS Filma24 Aventure" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: KS Filma24 Aventure
-http://37.49.225.182:8080/kodicologne/48e237edd2/297263
-#EXTINF:-1 tvg-id="" tvg-name="AL: KS Filma24 Aziatika" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: KS Filma24 Aziatika
-http://37.49.225.182:8080/kodicologne/48e237edd2/297264
-#EXTINF:-1 tvg-id="" tvg-name="AL: KS Filma24 Biografi" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: KS Filma24 Biografi
-http://37.49.225.182:8080/kodicologne/48e237edd2/297265
-#EXTINF:-1 tvg-id="" tvg-name="AL: KS Filma24 Drame" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: KS Filma24 Drame
-http://37.49.225.182:8080/kodicologne/48e237edd2/297266
-#EXTINF:-1 tvg-id="" tvg-name="AL: KS Filma24 Familjar AL" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: KS Filma24 Familjar AL
-http://37.49.225.182:8080/kodicologne/48e237edd2/299892
-#EXTINF:-1 tvg-id="" tvg-name="AL: KS Filma24 Family" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: KS Filma24 Family
-http://37.49.225.182:8080/kodicologne/48e237edd2/278247
-#EXTINF:-1 tvg-id="" tvg-name="AL: KS Filma24 Hindi" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: KS Filma24 Hindi
-http://37.49.225.182:8080/kodicologne/48e237edd2/299062
-#EXTINF:-1 tvg-id="" tvg-name="AL: KS Filma24 Horror" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: KS Filma24 Horror
-http://37.49.225.182:8080/kodicologne/48e237edd2/297268
-#EXTINF:-1 tvg-id="" tvg-name="AL: KS Filma24 Krim" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: KS Filma24 Krim
-http://37.49.225.182:8080/kodicologne/48e237edd2/297269
-#EXTINF:-1 tvg-id="" tvg-name="AL: KS Filma24 Mister" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: KS Filma24 Mister
-http://37.49.225.182:8080/kodicologne/48e237edd2/297270
-#EXTINF:-1 tvg-id="" tvg-name="AL: KS Filma24 Mister ALB" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: KS Filma24 Mister ALB
-http://37.49.225.182:8080/kodicologne/48e237edd2/299879
-#EXTINF:-1 tvg-id="" tvg-name="AL: KS Filma24 Oscars" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: KS Filma24 Oscars
-http://37.49.225.182:8080/kodicologne/48e237edd2/297271
-#EXTINF:-1 tvg-id="" tvg-name="AL: KS Filma24 Premiere" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: KS Filma24 Premiere
-http://37.49.225.182:8080/kodicologne/48e237edd2/278255
-#EXTINF:-1 tvg-id="" tvg-name="AL: KS Filma24 Romance" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: KS Filma24 Romance
-http://37.49.225.182:8080/kodicologne/48e237edd2/297273
-#EXTINF:-1 tvg-id="" tvg-name="AL: KS Filma24 SCI-Fi" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: KS Filma24 SCI-Fi
-http://37.49.225.182:8080/kodicologne/48e237edd2/297274
-#EXTINF:-1 tvg-id="" tvg-name="AL: KS Filma24 Triller" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: KS Filma24 Triller
-http://37.49.225.182:8080/kodicologne/48e237edd2/297275
-#EXTINF:-1 tvg-id="" tvg-name="AL: KS Filma24 Western" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: KS Filma24 Western
-http://37.49.225.182:8080/kodicologne/48e237edd2/297276
-#EXTINF:-1 tvg-id="" tvg-name="AL: Ks Premiere 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Ks Premiere 1
-http://37.49.225.182:8080/kodicologne/48e237edd2/294446
-#EXTINF:-1 tvg-id="" tvg-name="AL: Ks Premiere 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Ks Premiere 2
-http://37.49.225.182:8080/kodicologne/48e237edd2/281898
-#EXTINF:-1 tvg-id="" tvg-name="AL: Ks Premiere 3" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Ks Premiere 3
-http://37.49.225.182:8080/kodicologne/48e237edd2/173465
-#EXTINF:-1 tvg-id="" tvg-name="AL: Ks Premiere 4" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Ks Premiere 4
-http://37.49.225.182:8080/kodicologne/48e237edd2/173479
-#EXTINF:-1 tvg-id="" tvg-name="AL: Liria" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/673c8472334fe025d402e6a7bd594170.jpg" tvg-id2="" group-title="🌍 Albania",AL: Liria
-http://37.49.225.182:8080/kodicologne/48e237edd2/163401
-#EXTINF:-1 tvg-id="" tvg-name="AL: Malisheva" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/e46b6ed47cc07f1864ac61c526e283d2.png" tvg-id2="" group-title="🌍 Albania",AL: Malisheva
-http://37.49.225.182:8080/kodicologne/48e237edd2/198450
-#EXTINF:-1 tvg-id="" tvg-name="AL: MetiTV Aksion" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: MetiTV Aksion
-http://37.49.225.182:8080/kodicologne/48e237edd2/297277
-#EXTINF:-1 tvg-id="" tvg-name="AL: MetiTV Comedy" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: MetiTV Comedy
-http://37.49.225.182:8080/kodicologne/48e237edd2/297280
-#EXTINF:-1 tvg-id="" tvg-name="AL: MetiTV Epic" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: MetiTV Epic
-http://37.49.225.182:8080/kodicologne/48e237edd2/299900
-#EXTINF:-1 tvg-id="" tvg-name="AL: MetiTV Femije" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: MetiTV Femije
-http://37.49.225.182:8080/kodicologne/48e237edd2/299902
-#EXTINF:-1 tvg-id="" tvg-name="AL: MetiTV Film" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: MetiTV Film
-http://37.49.225.182:8080/kodicologne/48e237edd2/299901
-#EXTINF:-1 tvg-id="" tvg-name="AL: MetiTV Folk" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: MetiTV Folk
-http://37.49.225.182:8080/kodicologne/48e237edd2/297281
-#EXTINF:-1 tvg-id="" tvg-name="AL: MetiTV Gold" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: MetiTV Gold
-http://37.49.225.182:8080/kodicologne/48e237edd2/297282
-#EXTINF:-1 tvg-id="" tvg-name="AL: MetiTV Horror" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: MetiTV Horror
-http://37.49.225.182:8080/kodicologne/48e237edd2/297283
-#EXTINF:-1 tvg-id="" tvg-name="AL: MetiTV Humor" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: MetiTV Humor
-http://37.49.225.182:8080/kodicologne/48e237edd2/297284
-#EXTINF:-1 tvg-id="" tvg-name="AL: MetiTV kids" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: MetiTV kids
-http://37.49.225.182:8080/kodicologne/48e237edd2/297285
-#EXTINF:-1 tvg-id="" tvg-name="AL: MetiTV lufte" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: MetiTV lufte
-http://37.49.225.182:8080/kodicologne/48e237edd2/299899
-#EXTINF:-1 tvg-id="" tvg-name="AL: MetiTV Max" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: MetiTV Max
-http://37.49.225.182:8080/kodicologne/48e237edd2/297286
-#EXTINF:-1 tvg-id="" tvg-name="AL: MetiTV Mixha" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: MetiTV Mixha
-http://37.49.225.182:8080/kodicologne/48e237edd2/299903
-#EXTINF:-1 tvg-id="" tvg-name="AL: MetiTV Müzik:" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: MetiTV Müzik:
-http://37.49.225.182:8080/kodicologne/48e237edd2/297287
-#EXTINF:-1 tvg-id="" tvg-name="AL: MetiTV Shqip" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: MetiTV Shqip
-http://37.49.225.182:8080/kodicologne/48e237edd2/297288
-#EXTINF:-1 tvg-id="" tvg-name="AL: MetiTV Tallava" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: MetiTV Tallava
-http://37.49.225.182:8080/kodicologne/48e237edd2/297289
-#EXTINF:-1 tvg-id="" tvg-name="AL: MetiTV Çifteli" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: MetiTV Çifteli
-http://37.49.225.182:8080/kodicologne/48e237edd2/297278
-#EXTINF:-1 tvg-id="" tvg-name="AL: MetiTV çka ka shpija 24/7" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: MetiTV çka ka shpija 24/7
-http://37.49.225.182:8080/kodicologne/48e237edd2/297279
-#EXTINF:-1 tvg-id="" tvg-name="AL: MFM Müzik:" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a0d688a0c1b50a2ea7c5b8cca2c39b9f.jpg" tvg-id2="" group-title="🌍 Albania",AL: MFM Müzik:
-http://37.49.225.182:8080/kodicologne/48e237edd2/45019
-#EXTINF:-1 tvg-id="" tvg-name="AL: Pollogu" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/c8314f63833192e4a9bf9c51c8081f5b.jpg" tvg-id2="" group-title="🌍 Albania",AL: Pollogu
-http://37.49.225.182:8080/kodicologne/48e237edd2/264836
-#EXTINF:-1 tvg-id="" tvg-name="AL: Rozafa" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/66f956374d354d9bd40704f13010f5c9.jpg" tvg-id2="" group-title="🌍 Albania",AL: Rozafa
-http://37.49.225.182:8080/kodicologne/48e237edd2/6730
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTV Fontana" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/a67d5e2f46845ce13255e8d6dc631677.jpg" tvg-id2="" group-title="🌍 Albania",AL: RTV Fontana
-http://37.49.225.182:8080/kodicologne/48e237edd2/282006
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTV Ilirida" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/7d3c6b889ece36d060a2e4cb6fa7194c.jpg" tvg-id2="" group-title="🌍 Albania",AL: RTV Ilirida
-http://37.49.225.182:8080/kodicologne/48e237edd2/284743
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTV Islam" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/21baa2e87813273da6e0bb0f6df6b094.png" tvg-id2="" group-title="🌍 Albania",AL: RTV Islam
-http://37.49.225.182:8080/kodicologne/48e237edd2/4089
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTV Pendimi" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/14255559c4385fc106e11b98863b41b5.png" tvg-id2="" group-title="🌍 Albania",AL: RTV Pendimi
-http://37.49.225.182:8080/kodicologne/48e237edd2/23783
-#EXTINF:-1 tvg-id="" tvg-name="AL: Saranda TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Saranda TV
-http://37.49.225.182:8080/kodicologne/48e237edd2/297316
-#EXTINF:-1 tvg-id="" tvg-name="AL: Shenja TV" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/4f26930437a04b6f5635cbd51cdcd597.jpg" tvg-id2="" group-title="🌍 Albania",AL: Shenja TV
-http://37.49.225.182:8080/kodicologne/48e237edd2/12414
-#EXTINF:-1 tvg-id="" tvg-name="AL: Sky Aksion" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Sky Aksion
-http://37.49.225.182:8080/kodicologne/48e237edd2/295515
-#EXTINF:-1 tvg-id="" tvg-name="AL: Sky Comedy" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Sky Comedy
-http://37.49.225.182:8080/kodicologne/48e237edd2/295516
-#EXTINF:-1 tvg-id="" tvg-name="AL: Sky Drama" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Sky Drama
-http://37.49.225.182:8080/kodicologne/48e237edd2/295517
-#EXTINF:-1 tvg-id="" tvg-name="AL: Sky Max" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Sky Max
-http://37.49.225.182:8080/kodicologne/48e237edd2/26127
-#EXTINF:-1 tvg-id="" tvg-name="AL: Sky Novela" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Sky Novela
-http://37.49.225.182:8080/kodicologne/48e237edd2/16496
-#EXTINF:-1 tvg-id="" tvg-name="AL: Sky Star" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Sky Star
-http://37.49.225.182:8080/kodicologne/48e237edd2/120818
-#EXTINF:-1 tvg-id="" tvg-name="AL: Sofia" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/f4321c4b3f2b6b952484e0dafe2c2f79.png" tvg-id2="" group-title="🌍 Albania",AL: Sofia
-http://37.49.225.182:8080/kodicologne/48e237edd2/15539
-#EXTINF:-1 tvg-id="" tvg-name="AL: Sole TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Sole TV
-http://37.49.225.182:8080/kodicologne/48e237edd2/15540
-#EXTINF:-1 tvg-id="" tvg-name="AL: Spin TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Spin TV
-http://37.49.225.182:8080/kodicologne/48e237edd2/6714
-#EXTINF:-1 tvg-id="" tvg-name="AL: Syri TV" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/6f20fe69d514a9d0174c2b47bfeab307.jpg" tvg-id2="" group-title="🌍 Albania",AL: Syri TV
-http://37.49.225.182:8080/kodicologne/48e237edd2/4099
-#EXTINF:-1 tvg-id="" tvg-name="AL: Syri Vizion" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/ab27229691e40672d4bed48c79b7209a.png" tvg-id2="" group-title="🌍 Albania",AL: Syri Vizion
-http://37.49.225.182:8080/kodicologne/48e237edd2/120792
-#EXTINF:-1 tvg-id="" tvg-name="AL: T Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/467332097ca9cb8ee909414e4c46ad8c.png" tvg-id2="" group-title="🌍 Albania",AL: T Channel
-http://37.49.225.182:8080/kodicologne/48e237edd2/4101
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tele One 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Tele One 1
-http://37.49.225.182:8080/kodicologne/48e237edd2/145897
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tele One 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Tele One 2
-http://37.49.225.182:8080/kodicologne/48e237edd2/151734
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tele One 3" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Tele One 3
-http://37.49.225.182:8080/kodicologne/48e237edd2/295522
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tele One 4" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Tele One 4
-http://37.49.225.182:8080/kodicologne/48e237edd2/151732
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tele One 5" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Tele One 5
-http://37.49.225.182:8080/kodicologne/48e237edd2/151737
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tele One 6" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Tele One 6
-http://37.49.225.182:8080/kodicologne/48e237edd2/151733
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tele One Aksion" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Tele One Aksion
-http://37.49.225.182:8080/kodicologne/48e237edd2/264853
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tele One Aventure" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Tele One Aventure
-http://37.49.225.182:8080/kodicologne/48e237edd2/264852
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tele One Crime" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Tele One Crime
-http://37.49.225.182:8080/kodicologne/48e237edd2/295523
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tele One Drama" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Tele One Drama
-http://37.49.225.182:8080/kodicologne/48e237edd2/295524
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tele One Epik" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Tele One Epik
-http://37.49.225.182:8080/kodicologne/48e237edd2/299079
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tele One Fantazi" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Tele One Fantazi
-http://37.49.225.182:8080/kodicologne/48e237edd2/295525
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tele One Gold Collection" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Tele One Gold Collection
-http://37.49.225.182:8080/kodicologne/48e237edd2/247862
-#EXTINF:-1 tvg-id="" tvg-name="AL: Televizija 5" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Televizija 5
-http://37.49.225.182:8080/kodicologne/48e237edd2/299081
-#EXTINF:-1 tvg-id="" tvg-name="AL: Televizioni TV R" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Televizioni TV R
-http://37.49.225.182:8080/kodicologne/48e237edd2/299080
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tema TV" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/daf495b8c3cdc589507ea2c265276313.jpg" tvg-id2="" group-title="🌍 Albania",AL: Tema TV
-http://37.49.225.182:8080/kodicologne/48e237edd2/4102
-#EXTINF:-1 tvg-id="" tvg-name="AL: Teuta" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/266e2b70af63c6ff133f48d7a30f05df.png" tvg-id2="" group-title="🌍 Albania",AL: Teuta
-http://37.49.225.182:8080/kodicologne/48e237edd2/169882
-#EXTINF:-1 tvg-id="" tvg-name="AL: Teve Aksion" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Teve Aksion
-http://37.49.225.182:8080/kodicologne/48e237edd2/299051
-#EXTINF:-1 tvg-id="" tvg-name="AL: Teve Comedy" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Teve Comedy
-http://37.49.225.182:8080/kodicologne/48e237edd2/299053
-#EXTINF:-1 tvg-id="" tvg-name="AL: Teve Doku 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Teve Doku 1
-http://37.49.225.182:8080/kodicologne/48e237edd2/299055
-#EXTINF:-1 tvg-id="" tvg-name="AL: Teve Doku 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Teve Doku 2
-http://37.49.225.182:8080/kodicologne/48e237edd2/299056
-#EXTINF:-1 tvg-id="" tvg-name="AL: Teve Fantasy" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Teve Fantasy
-http://37.49.225.182:8080/kodicologne/48e237edd2/299052
-#EXTINF:-1 tvg-id="" tvg-name="AL: Teve Novela" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Teve Novela
-http://37.49.225.182:8080/kodicologne/48e237edd2/299050
-#EXTINF:-1 tvg-id="" tvg-name="AL: Teve Shqip" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Teve Shqip
-http://37.49.225.182:8080/kodicologne/48e237edd2/299054
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tom & Jerry" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Tom & Jerry
-http://37.49.225.182:8080/kodicologne/48e237edd2/15543
-#EXTINF:-1 tvg-id="" tvg-name="AL: TOP Estrada" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/fec89bed74110b33f5749de83b0d9088.png" tvg-id2="" group-title="🌍 Albania",AL: TOP Estrada
-http://37.49.225.182:8080/kodicologne/48e237edd2/16502
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tropoja" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Tropoja
-http://37.49.225.182:8080/kodicologne/48e237edd2/266657
-#EXTINF:-1 tvg-id="" tvg-name="AL: Turbo Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/0bdf077edf9f205d7800794a87c99b35.png" tvg-id2="" group-title="🌍 Albania",AL: Turbo Channel
-http://37.49.225.182:8080/kodicologne/48e237edd2/6717
-#EXTINF:-1 tvg-id="" tvg-name="AL: TV 7 Albania" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/51eb803884779e9133a759ca77d143b0.png" tvg-id2="" group-title="🌍 Albania",AL: TV 7 Albania
-http://37.49.225.182:8080/kodicologne/48e237edd2/6762
-#EXTINF:-1 tvg-id="" tvg-name="AL: TV Diaspora" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: TV Diaspora
-http://37.49.225.182:8080/kodicologne/48e237edd2/281350
-#EXTINF:-1 tvg-id="" tvg-name="AL: TV Dielli" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/fe3b554c186d7250608586118d158ffc.png" tvg-id2="" group-title="🌍 Albania",AL: TV Dielli
-http://37.49.225.182:8080/kodicologne/48e237edd2/12418
-#EXTINF:-1 tvg-id="" tvg-name="AL: TV Festina" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/288907e30468430bbb12800e16cd6c71.png" tvg-id2="" group-title="🌍 Albania",AL: TV Festina
-http://37.49.225.182:8080/kodicologne/48e237edd2/297260
-#EXTINF:-1 tvg-id="" tvg-name="AL: TV Kopliku" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/27a583c58d8f59b668672b6e56878ee8.jpg" tvg-id2="" group-title="🌍 Albania",AL: TV Kopliku
-http://37.49.225.182:8080/kodicologne/48e237edd2/173458
-#EXTINF:-1 tvg-id="" tvg-name="AL: TV Mitrovica" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ac3961e6a01fb2835eaf8d2e37294eb9.jpg" tvg-id2="" group-title="🌍 Albania",AL: TV Mitrovica
-http://37.49.225.182:8080/kodicologne/48e237edd2/4118
-#EXTINF:-1 tvg-id="" tvg-name="AL: TV Opoja" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6b8e20e7506a44c0e98dafdcfec30c35.jpg" tvg-id2="" group-title="🌍 Albania",AL: TV Opoja
-http://37.49.225.182:8080/kodicologne/48e237edd2/4119
-#EXTINF:-1 tvg-id="" tvg-name="AL: TV Sharri" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/03bf7ee22afa23be577be153f1748038.png" tvg-id2="" group-title="🌍 Albania",AL: TV Sharri
-http://37.49.225.182:8080/kodicologne/48e237edd2/12416
-#EXTINF:-1 tvg-id="" tvg-name="AL: TV Uskana" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4e3321ac3a41d9c75471c2c4f590bd35.jpg" tvg-id2="" group-title="🌍 Albania",AL: TV Uskana
-http://37.49.225.182:8080/kodicologne/48e237edd2/12421
-#EXTINF:-1 tvg-id="" tvg-name="AL: Ulqini TV" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/ee01d1a99027efc24690efee61da8574.jpg" tvg-id2="" group-title="🌍 Albania",AL: Ulqini TV
-http://37.49.225.182:8080/kodicologne/48e237edd2/278582
-#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Aksion" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: WebStar Aksion
-http://37.49.225.182:8080/kodicologne/48e237edd2/193709
-#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Baby" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: WebStar Baby
-http://37.49.225.182:8080/kodicologne/48e237edd2/299090
-#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar ChuChu" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: WebStar ChuChu
-http://37.49.225.182:8080/kodicologne/48e237edd2/193708
-#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Film 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: WebStar Film 1
-http://37.49.225.182:8080/kodicologne/48e237edd2/193704
-#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Film 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: WebStar Film 2
-http://37.49.225.182:8080/kodicologne/48e237edd2/295534
-#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Film 3" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: WebStar Film 3
-http://37.49.225.182:8080/kodicologne/48e237edd2/295535
-#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Film Cinema" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: WebStar Film Cinema
-http://37.49.225.182:8080/kodicologne/48e237edd2/297311
-#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Film Drame" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: WebStar Film Drame
-http://37.49.225.182:8080/kodicologne/48e237edd2/297312
-#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Film Komedi" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: WebStar Film Komedi
-http://37.49.225.182:8080/kodicologne/48e237edd2/297313
-#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Film Thriller" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: WebStar Film Thriller
-http://37.49.225.182:8080/kodicologne/48e237edd2/297314
-#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Hisrori" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: WebStar Hisrori
-http://37.49.225.182:8080/kodicologne/48e237edd2/299085
-#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Müzik:" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: WebStar Müzik:
-http://37.49.225.182:8080/kodicologne/48e237edd2/193697
-#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Müzik: CH" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: WebStar Müzik: CH
-http://37.49.225.182:8080/kodicologne/48e237edd2/193698
-#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Natyr" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: WebStar Natyr
-http://37.49.225.182:8080/kodicologne/48e237edd2/297315
-#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Popullore" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: WebStar Popullore
-http://37.49.225.182:8080/kodicologne/48e237edd2/193694
-#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Qifteli" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: WebStar Qifteli
-http://37.49.225.182:8080/kodicologne/48e237edd2/193693
-#EXTINF:-1 tvg-id="" tvg-name="AL: X Premiere 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: X Premiere 2
-http://37.49.225.182:8080/kodicologne/48e237edd2/40535
-#EXTINF:-1 tvg-id="" tvg-name="AL: Zeri" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/8c2d1ddfc18a6a78918c648425bce3e7.png" tvg-id2="" group-title="🌍 Albania",AL: Zeri
+	
+http://37.49.225.182:8080/kodicologne/48e237edd2/66172	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Arena Oversportt 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/577d05bbbff32984817bb5651dc77549.png" tvg-id2="" group-title="🌍 Albania Oversport:",AL: Arena Oversportt 1	
+http://37.49.225.182:8080/kodicologne/48e237edd2/193741	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Arena Oversportt 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/14078476ccd04f73e80473edc0a0037c.png" tvg-id2="" group-title="🌍 Albania Oversport:",AL: Arena Oversportt 2	
+http://37.49.225.182:8080/kodicologne/48e237edd2/171883	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Arena Oversportt 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/0b368e483f287a3f3e07bab3dd8f652f.png" tvg-id2="" group-title="🌍 Albania Oversport:",AL: Arena Oversportt 4	
+http://37.49.225.182:8080/kodicologne/48e237edd2/193744	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Arena Oversportt 5" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/d5681f9e3564d378ff7769b8037581dc.png" tvg-id2="" group-title="🌍 Albania Oversport:",AL: Arena Oversportt 5	
+http://37.49.225.182:8080/kodicologne/48e237edd2/57711	
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART Oversportt 1" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/d016a2c0dd5d33df89a4f85a016b9299.png" tvg-id2="" group-title="🌍 Albania Oversport:",AL: ART Oversportt 1	
+http://37.49.225.182:8080/kodicologne/48e237edd2/23143	
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART Oversportt 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/1f3685cf082119f422fe1bd584cbb48c.png" tvg-id2="" group-title="🌍 Albania Oversport:",AL: ART Oversportt 2	
+http://37.49.225.182:8080/kodicologne/48e237edd2/23146	
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART Oversportt 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/7977d0e43fed7b4efd627df97b1a4e29.png" tvg-id2="" group-title="🌍 Albania Oversport:",AL: ART Oversportt 3	
+http://37.49.225.182:8080/kodicologne/48e237edd2/40061	
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART Oversportt 4" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/29bd2d194a584b18ac79234629e0e7d3.png" tvg-id2="" group-title="🌍 Albania Oversport:",AL: ART Oversportt 4	
+http://37.49.225.182:8080/kodicologne/48e237edd2/295216	
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART Oversportt 5" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/8b1c9902f40ad05adb08639c21185942.png" tvg-id2="" group-title="🌍 Albania Oversport:",AL: ART Oversportt 5	
+http://37.49.225.182:8080/kodicologne/48e237edd2/295215	
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART Oversportt 6" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/f1601e8f1df9decd8a254b34fad96173.png" tvg-id2="" group-title="🌍 Albania Oversport:",AL: ART Oversportt 6	
+http://37.49.225.182:8080/kodicologne/48e237edd2/295217	
+#EXTINF:-1 tvg-id="" tvg-name="AL: EUROOversportT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/f1cecaaf5d587858aabdde39a3a50e15.png" tvg-id2="" group-title="🌍 Albania Oversport:",AL: EUROOversportT 1	
+http://37.49.225.182:8080/kodicologne/48e237edd2/45047	
+#EXTINF:-1 tvg-id="" tvg-name="AL: EUROOversportT 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/58c261282f835c1c845666c27004ad9c.png" tvg-id2="" group-title="🌍 Albania Oversport:",AL: EUROOversportT 2	
+http://37.49.225.182:8080/kodicologne/48e237edd2/16454	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Oversportt 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7b4d3d4bcb7f01fc9d9d633995198bff.jpg" tvg-id2="" group-title="🌍 Albania Oversport:",AL: Kujtesa Oversportt 1	
+http://37.49.225.182:8080/kodicologne/48e237edd2/1863	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Oversportt 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0bcdad89b4447a2a1a50f8b6e6f27d2b.jpg" tvg-id2="" group-title="🌍 Albania Oversport:",AL: Kujtesa Oversportt 2	
+http://37.49.225.182:8080/kodicologne/48e237edd2/1864	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Oversportt 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/374268c45e28a927265cafd3d15bca99.jpg" tvg-id2="" group-title="🌍 Albania Oversport:",AL: Kujtesa Oversportt 3	
+http://37.49.225.182:8080/kodicologne/48e237edd2/1865	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Oversportt 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e97db585bf968f9c3df5945b962726d1.jpg" tvg-id2="" group-title="🌍 Albania Oversport:",AL: Kujtesa Oversportt 4	
+http://37.49.225.182:8080/kodicologne/48e237edd2/1866	
+#EXTINF:-1 tvg-id="" tvg-name="AL: OverOversportt 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/ef8213f5e236a12fb644eb2bcff28ce5.jpeg" tvg-id2="" group-title="🌍 Albania Oversport:",AL: OverOversportt 1	
+http://37.49.225.182:8080/kodicologne/48e237edd2/290218	
+#EXTINF:-1 tvg-id="" tvg-name="AL: OverOversportt 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/9c8bee846533b2c299d57bddf3d7f0a3.jpeg" tvg-id2="" group-title="🌍 Albania Oversport:",AL: OverOversportt 2	
+http://37.49.225.182:8080/kodicologne/48e237edd2/295514	
+#EXTINF:-1 tvg-id="" tvg-name="AL: OverOversportt 3" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/744027c660655a915f50a71f59896a89.jpeg" tvg-id2="" group-title="🌍 Albania Oversport:",AL: OverOversportt 3	
+http://37.49.225.182:8080/kodicologne/48e237edd2/290537	
+#EXTINF:-1 tvg-id="" tvg-name="AL: OverOversportt 4" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/2aefeb7ccb3619b0172a1e49c72fb74f.jpeg" tvg-id2="" group-title="🌍 Albania Oversport:",AL: OverOversportt 4	
+http://37.49.225.182:8080/kodicologne/48e237edd2/290538	
+#EXTINF:-1 tvg-id="" tvg-name="AL: OverOversportt News:" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/2e4a07ad9510fe419531945ecbcb34a2.jpeg" tvg-id2="" group-title="🌍 Albania Oversport:",AL: OverOversportt News:	
+http://37.49.225.182:8080/kodicologne/48e237edd2/298898	
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Oversportt" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/bf23238a743c9feae86249cae1e285d3.svg" tvg-id2="" group-title="🌍 Albania Oversport:",AL: RTSH Oversportt	
+http://37.49.225.182:8080/kodicologne/48e237edd2/2568	
+#EXTINF:-1 tvg-id="" tvg-name="AL: SuperOversportt 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/9519a058698941aadb6473f8721e58b1.png" tvg-id2="" group-title="🌍 Albania Oversport:",AL: SuperOversportt 2	
+http://37.49.225.182:8080/kodicologne/48e237edd2/1312	
+#EXTINF:-1 tvg-id="" tvg-name="AL: SuperOversportt 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/dd3c9c967ec530a8b19978ca6aac4588.png" tvg-id2="" group-title="🌍 Albania Oversport:",AL: SuperOversportt 3	
+http://37.49.225.182:8080/kodicologne/48e237edd2/1319	
+#EXTINF:-1 tvg-id="" tvg-name="AL: SuperOversportt 4" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/e0c350049cb9584a4a13c63aaf405857.png" tvg-id2="" group-title="🌍 Albania Oversport:",AL: SuperOversportt 4	
+http://37.49.225.182:8080/kodicologne/48e237edd2/1318	
+#EXTINF:-1 tvg-id="" tvg-name="AL: SuperOversportt 5" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/c6be34175b71784909e9493c29135344.png" tvg-id2="" group-title="🌍 Albania Oversport:",AL: SuperOversportt 5	
+http://37.49.225.182:8080/kodicologne/48e237edd2/1860	
+#EXTINF:-1 tvg-id="" tvg-name="AL: SuperOversportt 6" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/f2f8128ce788087140b3d84a313fe6e8.png" tvg-id2="" group-title="🌍 Albania Oversport:",AL: SuperOversportt 6	
+http://37.49.225.182:8080/kodicologne/48e237edd2/3638	
+#EXTINF:-1 tvg-id="" tvg-name="AL: SuperOversportt 7" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/90b0f1e0b931a25f5257b5ff05e96fe5.png" tvg-id2="" group-title="🌍 Albania Oversport:",AL: SuperOversportt 7	
+http://37.49.225.182:8080/kodicologne/48e237edd2/174441	
+#EXTINF:-1 tvg-id="" tvg-name="AL: SuperOversportt News:" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/aefe50d9ab73b8233ce7f0bf3c44880b.png" tvg-id2="" group-title="🌍 Albania Oversport:",AL: SuperOversportt News:	
+http://37.49.225.182:8080/kodicologne/48e237edd2/1313	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Oversportt 1" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/159a3e53a509523324405a783571860a.png" tvg-id2="" group-title="🌍 Albania Oversport:",AL: Tring Oversportt 1	
+http://37.49.225.182:8080/kodicologne/48e237edd2/1306	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Oversportt 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/43c29acadbe04ba7cccb93430e73d373.png" tvg-id2="" group-title="🌍 Albania Oversport:",AL: Tring Oversportt 2	
+http://37.49.225.182:8080/kodicologne/48e237edd2/1305	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Oversportt 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/85de7720019eb796d9dfe20898807b36.png" tvg-id2="" group-title="🌍 Albania Oversport:",AL: Tring Oversportt 3	
+http://37.49.225.182:8080/kodicologne/48e237edd2/1304	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Oversportt 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/6a7cf8d9da4b44e4a17d4874a96de13f.png" tvg-id2="" group-title="🌍 Albania Oversport:",AL: Tring Oversportt 4	
+http://37.49.225.182:8080/kodicologne/48e237edd2/1862	
+#EXTINF:-1 tvg-id="" tvg-name="AL: A2 CNN" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/e6134662a6df54df16e72f147a19a565.svg" tvg-id2="" group-title="🌍 Albania News:",AL: A2 CNN	
+http://37.49.225.182:8080/kodicologne/48e237edd2/281857	
+#EXTINF:-1 tvg-id="" tvg-name="AL: ABC" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/fb31ad95ec4bbc4be881e750ea856a89.png" tvg-id2="" group-title="🌍 Albania News:",AL: ABC	
+http://37.49.225.182:8080/kodicologne/48e237edd2/2551	
+#EXTINF:-1 tvg-id="" tvg-name="AL: euronews" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/cee60d23cf0e39f75c012c4e67bc1985.png" tvg-id2="" group-title="🌍 Albania News:",AL: euronews	
+http://37.49.225.182:8080/kodicologne/48e237edd2/169839	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Fax News:" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/65259128a7f8d93d9f19f846179231fe.png" tvg-id2="" group-title="🌍 Albania News:",AL: Fax News:	
+http://37.49.225.182:8080/kodicologne/48e237edd2/5136	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kanal 10" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/c655613efc4c5e1acbb02c59c874c2fb.png" tvg-id2="" group-title="🌍 Albania News:",AL: Kanal 10	
+http://37.49.225.182:8080/kodicologne/48e237edd2/198840	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Klan News:" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/0d8ad0f34c08fc3c2c450416dce507c6.png" tvg-id2="" group-title="🌍 Albania News:",AL: Klan News:	
+http://37.49.225.182:8080/kodicologne/48e237edd2/296554	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Neser TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/aca3796a7bbd98f95a297f8c77d4049a.png" tvg-id2="" group-title="🌍 Albania News:",AL: Neser TV	
+http://37.49.225.182:8080/kodicologne/48e237edd2/290455	
+#EXTINF:-1 tvg-id="" tvg-name="AL: News: 24" tvg-logo="http://s3.i3ns.net/portal/picon/2023-09/ab1944806491152eb48a5538c89394ee.png" tvg-id2="" group-title="🌍 Albania News:",AL: News: 24	
+http://37.49.225.182:8080/kodicologne/48e237edd2/299812	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Ora News:" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/d4ac2713819e179c78c678ae6c1636bb.png" tvg-id2="" group-title="🌍 Albania News:",AL: Ora News:	
+http://37.49.225.182:8080/kodicologne/48e237edd2/5126	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Report TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/144beb981ee21f4b042307d63fb10d30.png" tvg-id2="" group-title="🌍 Albania News:",AL: Report TV	
+http://37.49.225.182:8080/kodicologne/48e237edd2/4077	
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH 24" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/cdb42292d9c45ae1db8241b4fdcc0dd2.svg" tvg-id2="" group-title="🌍 Albania News:",AL: RTSH 24	
+http://37.49.225.182:8080/kodicologne/48e237edd2/5962	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Scan" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/385c653e4f513cf21f7aca72c7b3cba7.png" tvg-id2="" group-title="🌍 Albania News:",AL: Scan	
+http://37.49.225.182:8080/kodicologne/48e237edd2/23735	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Syri News:" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/0e4a3cf3786007892f41f5146e1194ae.svg" tvg-id2="" group-title="🌍 Albania News:",AL: Syri News:	
+http://37.49.225.182:8080/kodicologne/48e237edd2/4100	
+#EXTINF:-1 tvg-id="" tvg-name="AL: TOP News:" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/eba7a81a10dcbc247ee6245ced118cf8.png" tvg-id2="" group-title="🌍 Albania News:",AL: TOP News:	
+http://37.49.225.182:8080/kodicologne/48e237edd2/5122	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Oversportt News:" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/d336e84b188eca200534666d82b422c9.png" tvg-id2="" group-title="🌍 Albania News:",AL: Tring Oversportt News:	
+http://37.49.225.182:8080/kodicologne/48e237edd2/1861	
+#EXTINF:-1 tvg-id="" tvg-name="AL: TV Klan" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/46595988f0083f19afd11068bd05c6d0.png" tvg-id2="" group-title="🌍 Albania News:",AL: TV Klan	
+http://37.49.225.182:8080/kodicologne/48e237edd2/1853	
+#EXTINF:-1 tvg-id="" tvg-name="AL: 24 Kitchen" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/0bc804a09638d8aec9bfa209a7fa027a.png" tvg-id2="" group-title="🌍 Albania TvAL:",AL: 24 Kitchen	
+http://37.49.225.182:8080/kodicologne/48e237edd2/1343	
+#EXTINF:-1 tvg-id="" tvg-name="AL: ATV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/fc491afbd5e05e744fa0d4d257780b36.png" tvg-id2="" group-title="🌍 Albania TvAL:",AL: ATV	
+http://37.49.225.182:8080/kodicologne/48e237edd2/65844	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Big Brother 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania TvAL:",AL: Big Brother 1	
+http://37.49.225.182:8080/kodicologne/48e237edd2/297206	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Big Brother 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania TvAL:",AL: Big Brother 2	
+http://37.49.225.182:8080/kodicologne/48e237edd2/297207	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Elrodi TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/a0a4ddd17042ba3635b68af08c08c370.png" tvg-id2="" group-title="🌍 Albania TvAL:",AL: Elrodi TV	
+http://37.49.225.182:8080/kodicologne/48e237edd2/2557	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Explorer Shkence" tvg-logo="http://s3.i3ns.net/portal/picon/2021-02/7a79ebe3df2d6efb9fb670aedcc397d0.png" tvg-id2="" group-title="🌍 Albania TvAL:",AL: Explorer Shkence	
+http://37.49.225.182:8080/kodicologne/48e237edd2/5961	
+#EXTINF:-1 tvg-id="" tvg-name="AL: First Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/c7fd10691cc843f95f0908905480eea0.png" tvg-id2="" group-title="🌍 Albania TvAL:",AL: First Channel	
+http://37.49.225.182:8080/kodicologne/48e237edd2/298434	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kanali 7" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/55138217ab079c60497daf3f4f722a44.png" tvg-id2="" group-title="🌍 Albania TvAL:",AL: Kanali 7	
+http://37.49.225.182:8080/kodicologne/48e237edd2/4062	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Klan Kosova" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/f5069fbc944f9b037859da85c68e725e.png" tvg-id2="" group-title="🌍 Albania TvAL:",AL: Klan Kosova	
+http://37.49.225.182:8080/kodicologne/48e237edd2/2561	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Klan Macedonia" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/281a31d9f421e66d8c66fdb3be008957.png" tvg-id2="" group-title="🌍 Albania TvAL:",AL: Klan Macedonia	
+http://37.49.225.182:8080/kodicologne/48e237edd2/296555	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Klan Plus" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/f366c3269e64ff77d0a400580951a96e.png" tvg-id2="" group-title="🌍 Albania TvAL:",AL: Klan Plus	
+http://37.49.225.182:8080/kodicologne/48e237edd2/2562	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Koha TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e2ced51fa8b30b734ccf765b85b7f2f8.jpg" tvg-id2="" group-title="🌍 Albania TvAL:",AL: Koha TV	
+http://37.49.225.182:8080/kodicologne/48e237edd2/4115	
+#EXTINF:-1 tvg-id="" tvg-name="AL: KTV Kohavision" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/35bb4fd82d973921030f0189694522fa.jpg" tvg-id2="" group-title="🌍 Albania TvAL:",AL: KTV Kohavision	
+http://37.49.225.182:8080/kodicologne/48e237edd2/201094	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Living" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e2d646e5b32546a6dbe83001b0414e56.png" tvg-id2="" group-title="🌍 Albania TvAL:",AL: Living	
+http://37.49.225.182:8080/kodicologne/48e237edd2/4070	
+#EXTINF:-1 tvg-id="" tvg-name="AL: MCN TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/84328831fa19ad420ea7f1520d33bfa3.png" tvg-id2="" group-title="🌍 Albania TvAL:",AL: MCN TV	
+http://37.49.225.182:8080/kodicologne/48e237edd2/286798	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Muse TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/8c1c24c42cedcc683029fe78e86f2b2f.png" tvg-id2="" group-title="🌍 Albania TvAL:",AL: Muse TV	
+http://37.49.225.182:8080/kodicologne/48e237edd2/4072	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Ora" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/eef7666644595f5e056adf5620d97a4d.png" tvg-id2="" group-title="🌍 Albania TvAL:",AL: Ora	
+http://37.49.225.182:8080/kodicologne/48e237edd2/163104	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Peace TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/127fed99e14527d5771aee47da055db8.jpeg" tvg-id2="" group-title="🌍 Albania TvAL:",AL: Peace TV	
+http://37.49.225.182:8080/kodicologne/48e237edd2/15562	
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTK 1" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/baf7bf76cef98f2e6f0d3fa9e836f896.png" tvg-id2="" group-title="🌍 Albania TvAL:",AL: RTK 1	
+http://37.49.225.182:8080/kodicologne/48e237edd2/298417	
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTK 2" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/3620d8e55b1b27057d07e50b7d83aa72.png" tvg-id2="" group-title="🌍 Albania TvAL:",AL: RTK 2	
+http://37.49.225.182:8080/kodicologne/48e237edd2/298418	
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTK 3" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/4bf5e68cebdfd6adfbbba71cacef99b0.png" tvg-id2="" group-title="🌍 Albania TvAL:",AL: RTK 3	
+http://37.49.225.182:8080/kodicologne/48e237edd2/298419	
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTK 4" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/7a736f678334e0caec808dca464e5c95.png" tvg-id2="" group-title="🌍 Albania TvAL:",AL: RTK 4	
+http://37.49.225.182:8080/kodicologne/48e237edd2/298420	
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/0f9e089f10181b4032a1060569407a01.svg" tvg-id2="" group-title="🌍 Albania TvAL:",AL: RTSH 1	
+http://37.49.225.182:8080/kodicologne/48e237edd2/4123	
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/35773f95678e4a4dfdc623c9bb0c77fa.svg" tvg-id2="" group-title="🌍 Albania TvAL:",AL: RTSH 2	
+http://37.49.225.182:8080/kodicologne/48e237edd2/1854	
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH 3" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/96aa53d22c69879794fb269ab38caf92.svg" tvg-id2="" group-title="🌍 Albania TvAL:",AL: RTSH 3	
+http://37.49.225.182:8080/kodicologne/48e237edd2/1855	
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Agro" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/2220440114a101fd1eaa2e69b4e2d4a3.svg" tvg-id2="" group-title="🌍 Albania TvAL:",AL: RTSH Agro	
+http://37.49.225.182:8080/kodicologne/48e237edd2/193717	
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Femije" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/1fb8b7d702106a0099b78893f5b696ee.svg" tvg-id2="" group-title="🌍 Albania TvAL:",AL: RTSH Femije	
+http://37.49.225.182:8080/kodicologne/48e237edd2/5146	
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Gjirokastra" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/74abeaf2819ce0729b7f00581b28e62e.svg" tvg-id2="" group-title="🌍 Albania TvAL:",AL: RTSH Gjirokastra	
+http://37.49.225.182:8080/kodicologne/48e237edd2/23700	
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Korca" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/11be00f9db7f484c48609adfb297238f.svg" tvg-id2="" group-title="🌍 Albania TvAL:",AL: RTSH Korca	
+http://37.49.225.182:8080/kodicologne/48e237edd2/23708	
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Kukesi" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/19a49e326e628155a8d7a8db1a20e3a5.svg" tvg-id2="" group-title="🌍 Albania TvAL:",AL: RTSH Kukesi	
+http://37.49.225.182:8080/kodicologne/48e237edd2/198663	
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Kuvend" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/877ce84eca21eea5cc4cc52043c73cdc.svg" tvg-id2="" group-title="🌍 Albania TvAL:",AL: RTSH Kuvend	
+http://37.49.225.182:8080/kodicologne/48e237edd2/22434	
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Plus" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/b6f004251405caa3b5c1aa3d2426a15c.svg" tvg-id2="" group-title="🌍 Albania TvAL:",AL: RTSH Plus	
+http://37.49.225.182:8080/kodicologne/48e237edd2/169831	
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Satelit" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/903acb92b2b1674561636bd877d9adc3.png" tvg-id2="" group-title="🌍 Albania TvAL:",AL: RTSH Satelit	
+http://37.49.225.182:8080/kodicologne/48e237edd2/282301	
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Shkodra" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/24bd976221001ff80c027daa5b7ac8e4.png" tvg-id2="" group-title="🌍 Albania TvAL:",AL: RTSH Shkodra	
+http://37.49.225.182:8080/kodicologne/48e237edd2/284742	
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Shkolle" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/174d4bcd7f28a11ac1f7542675c1e961.svg" tvg-id2="" group-title="🌍 Albania TvAL:",AL: RTSH Shkolle	
+http://37.49.225.182:8080/kodicologne/48e237edd2/1856	
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTV 21" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/2c4f7f62b27a589f916baedaacdd3882.png" tvg-id2="" group-title="🌍 Albania TvAL:",AL: RTV 21	
+http://37.49.225.182:8080/kodicologne/48e237edd2/298421	
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTV 21 Mix" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/950f993e563b9f14c58e8a4db540ed37.png" tvg-id2="" group-title="🌍 Albania TvAL:",AL: RTV 21 Mix	
+http://37.49.225.182:8080/kodicologne/48e237edd2/4086	
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTV 21 Plus" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/1b4040b73ebd15c45debb44748c4bf59.png" tvg-id2="" group-title="🌍 Albania TvAL:",AL: RTV 21 Plus	
+http://37.49.225.182:8080/kodicologne/48e237edd2/298423	
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTV 21 Popullore" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/7eb2ffd0462211537a78abc809bd6ab7.png" tvg-id2="" group-title="🌍 Albania TvAL:",AL: RTV 21 Popullore	
+http://37.49.225.182:8080/kodicologne/48e237edd2/298424	
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTV Dukagjini" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/fa3c38ea620be6656c37ec59faa83bdd.png" tvg-id2="" group-title="🌍 Albania TvAL:",AL: RTV Dukagjini	
+http://37.49.225.182:8080/kodicologne/48e237edd2/6708	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Star Plus" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/aeb4d3ba777598eb409ebf6d6a1f7e2f.png" tvg-id2="" group-title="🌍 Albania TvAL:",AL: Star Plus	
+http://37.49.225.182:8080/kodicologne/48e237edd2/12428	
+#EXTINF:-1 tvg-id="" tvg-name="AL: T7" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/e51ec8d204406e82257fc581fca5616a.png" tvg-id2="" group-title="🌍 Albania TvAL:",AL: T7	
+http://37.49.225.182:8080/kodicologne/48e237edd2/281851	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Teve 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/8973cd61db359bdb4c411314127da4a0.png" tvg-id2="" group-title="🌍 Albania TvAL:",AL: Teve 1	
+http://37.49.225.182:8080/kodicologne/48e237edd2/295527	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tip TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/4d9ee786fddd6132b4f5954940f272dd.png" tvg-id2="" group-title="🌍 Albania TvAL:",AL: Tip TV	
+http://37.49.225.182:8080/kodicologne/48e237edd2/2574	
+#EXTINF:-1 tvg-id="" tvg-name="AL: TOP Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/ccdd2ccdf1cface8d5a14186566daf84.png" tvg-id2="" group-title="🌍 Albania TvAL:",AL: TOP Channel	
+http://37.49.225.182:8080/kodicologne/48e237edd2/1311	
+#EXTINF:-1 tvg-id="" tvg-name="AL: TV 21 Macedonia" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ed5d29ea9bb9627a5c7b0e419c74c204.png" tvg-id2="" group-title="🌍 Albania TvAL:",AL: TV 21 Macedonia	
+http://37.49.225.182:8080/kodicologne/48e237edd2/298425	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Vizion Plus" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/81af6d3489034eab2c610279a903cd4f.png" tvg-id2="" group-title="🌍 Albania TvAL:",AL: Vizion Plus	
+http://37.49.225.182:8080/kodicologne/48e237edd2/1299	
+#EXTINF:-1 tvg-id="" tvg-name="AL: 8ova BBF" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: 8ova BBF	
+http://37.49.225.182:8080/kodicologne/48e237edd2/263768	
+#EXTINF:-1 tvg-id="" tvg-name="AL: 8ova Drame" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: 8ova Drame	
+http://37.49.225.182:8080/kodicologne/48e237edd2/263766	
+#EXTINF:-1 tvg-id="" tvg-name="AL: 8ova Gjurme Shqiptare" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: 8ova Gjurme Shqiptare	
+http://37.49.225.182:8080/kodicologne/48e237edd2/193733	
+#EXTINF:-1 tvg-id="" tvg-name="AL: 8ova Humor" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: 8ova Humor	
+http://37.49.225.182:8080/kodicologne/48e237edd2/263772	
+#EXTINF:-1 tvg-id="" tvg-name="AL: 8ova Komedi" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: 8ova Komedi	
+http://37.49.225.182:8080/kodicologne/48e237edd2/263767	
+#EXTINF:-1 tvg-id="" tvg-name="AL: 8ova Masha Bear" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: 8ova Masha Bear	
+http://37.49.225.182:8080/kodicologne/48e237edd2/299048	
+#EXTINF:-1 tvg-id="" tvg-name="AL: 8ova Muzik" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: 8ova Muzik	
+http://37.49.225.182:8080/kodicologne/48e237edd2/299047	
+#EXTINF:-1 tvg-id="" tvg-name="AL: 8ova Popullore" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: 8ova Popullore	
+http://37.49.225.182:8080/kodicologne/48e237edd2/263773	
+#EXTINF:-1 tvg-id="" tvg-name="AL: 8ova Thriller" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: 8ova Thriller	
+http://37.49.225.182:8080/kodicologne/48e237edd2/263765	
+#EXTINF:-1 tvg-id="" tvg-name="AL: AA Network" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: AA Network	
+http://37.49.225.182:8080/kodicologne/48e237edd2/297251	
+#EXTINF:-1 tvg-id="" tvg-name="AL: ACTV Michigan" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: ACTV Michigan	
+http://37.49.225.182:8080/kodicologne/48e237edd2/299861	
+#EXTINF:-1 tvg-id="" tvg-name="AL: ALB Müzik:" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/1c75920e78b913e57a9a9b9e9d2005db.png" tvg-id2="" group-title="🌍 Albania",AL: ALB Müzik:	
+http://37.49.225.182:8080/kodicologne/48e237edd2/44994	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Alb Swiss" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/06509b8b29e26f2b34a0a0c28e2128c3.png" tvg-id2="" group-title="🌍 Albania",AL: Alb Swiss	
+http://37.49.225.182:8080/kodicologne/48e237edd2/12437	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Albanian TV Chicago" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/2411e6e066ebfcc8d6c5b9b4e9a76065.jfif" tvg-id2="" group-title="🌍 Albania",AL: Albanian TV Chicago	
+http://37.49.225.182:8080/kodicologne/48e237edd2/297257	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Albkanale Muzik" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/fdbba100c22bd4f8989cdce644343140.png" tvg-id2="" group-title="🌍 Albania",AL: Albkanale Muzik	
+http://37.49.225.182:8080/kodicologne/48e237edd2/295858	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Albuk" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/5bff9d821ee487f9df8d1e70eb830194.png" tvg-id2="" group-title="🌍 Albania",AL: Albuk	
+http://37.49.225.182:8080/kodicologne/48e237edd2/4037	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Alpo" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/d29d9fbb2c0cd93b3b8f04b5330f597e.jpg" tvg-id2="" group-title="🌍 Albania",AL: Alpo	
+http://37.49.225.182:8080/kodicologne/48e237edd2/278528	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Amol TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/94dda95426bbaef8ac2cc9244ec6dcda.png" tvg-id2="" group-title="🌍 Albania",AL: Amol TV	
+http://37.49.225.182:8080/kodicologne/48e237edd2/281387	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Apollon TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/48539aa3304c2a7b0ff845e5aa645c7e.jpg" tvg-id2="" group-title="🌍 Albania",AL: Apollon TV	
+http://37.49.225.182:8080/kodicologne/48e237edd2/267037	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Art Doku 1" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/0a29f149fdf9ea0b75c430524b097d38.png" tvg-id2="" group-title="🌍 Albania",AL: Art Doku 1	
+http://37.49.225.182:8080/kodicologne/48e237edd2/146080	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Art Doku 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/b4c398265f61972391d66dc127cad1bb.png" tvg-id2="" group-title="🌍 Albania",AL: Art Doku 2	
+http://37.49.225.182:8080/kodicologne/48e237edd2/146081	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Art Kino 1" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/7fe45f2f1833f7f70be27cb3dc073c39.png" tvg-id2="" group-title="🌍 Albania",AL: Art Kino 1	
+http://37.49.225.182:8080/kodicologne/48e237edd2/146084	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Art Kino 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/8f5cb8018c2f482d7bc3aebecf5d5e87.png" tvg-id2="" group-title="🌍 Albania",AL: Art Kino 2	
+http://37.49.225.182:8080/kodicologne/48e237edd2/146085	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Art Kino 3" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/48fe0b00bb6214ce00ed429c2004ffa0.png" tvg-id2="" group-title="🌍 Albania",AL: Art Kino 3	
+http://37.49.225.182:8080/kodicologne/48e237edd2/146086	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Ashkali TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Ashkali TV	
+http://37.49.225.182:8080/kodicologne/48e237edd2/193769	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Atd TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Atd TV	
+http://37.49.225.182:8080/kodicologne/48e237edd2/278531	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Besa TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0a91d2c1caa0fca1a548de9508c8a9ad.png" tvg-id2="" group-title="🌍 Albania",AL: Besa TV	
+http://37.49.225.182:8080/kodicologne/48e237edd2/4042	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Blue Sky TV" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/3ae3d95f9a89d075685c14b5ae675808.png" tvg-id2="" group-title="🌍 Albania",AL: Blue Sky TV	
+http://37.49.225.182:8080/kodicologne/48e237edd2/151757	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Cinema 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Cinema 1	
+http://37.49.225.182:8080/kodicologne/48e237edd2/295552	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Cinema 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Cinema 2	
+http://37.49.225.182:8080/kodicologne/48e237edd2/295551	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Dark Balada" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Dark Balada	
+http://37.49.225.182:8080/kodicologne/48e237edd2/266409	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Dark Cka ka Shpia" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Dark Cka ka Shpia	
+http://37.49.225.182:8080/kodicologne/48e237edd2/166521	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Dark Fara e Flliqt" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Dark Fara e Flliqt	
+http://37.49.225.182:8080/kodicologne/48e237edd2/266416	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Dark Kafeneja jone" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Dark Kafeneja jone	
+http://37.49.225.182:8080/kodicologne/48e237edd2/188264	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Dark Popullore" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Dark Popullore	
+http://37.49.225.182:8080/kodicologne/48e237edd2/166533	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Dark Stupcat Skeçe" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Dark Stupcat Skeçe	
+http://37.49.225.182:8080/kodicologne/48e237edd2/166520	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Dark Tallava" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Dark Tallava	
+http://37.49.225.182:8080/kodicologne/48e237edd2/166536	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Dasma" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Dasma	
+http://37.49.225.182:8080/kodicologne/48e237edd2/8288	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Digi Gold 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Digi Gold 1	
+http://37.49.225.182:8080/kodicologne/48e237edd2/281904	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Digi Gold 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Digi Gold 2	
+http://37.49.225.182:8080/kodicologne/48e237edd2/299060	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Digi Gold 4" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Digi Gold 4	
+http://37.49.225.182:8080/kodicologne/48e237edd2/281907	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Drita TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/eef24b5325b4ef4f581c2bb68ec7c942.png" tvg-id2="" group-title="🌍 Albania",AL: Drita TV	
+http://37.49.225.182:8080/kodicologne/48e237edd2/41318	
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Festive" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: EB Festive	
+http://37.49.225.182:8080/kodicologne/48e237edd2/297193	
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Festive 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: EB Festive 1	
+http://37.49.225.182:8080/kodicologne/48e237edd2/297194	
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Festive 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: EB Festive 2	
+http://37.49.225.182:8080/kodicologne/48e237edd2/297195	
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Festive 3" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: EB Festive 3	
+http://37.49.225.182:8080/kodicologne/48e237edd2/297196	
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Festive 4" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: EB Festive 4	
+http://37.49.225.182:8080/kodicologne/48e237edd2/297197	
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Festive 5" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: EB Festive 5	
+http://37.49.225.182:8080/kodicologne/48e237edd2/297198	
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Festive 6" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: EB Festive 6	
+http://37.49.225.182:8080/kodicologne/48e237edd2/297199	
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Festive 7" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: EB Festive 7	
+http://37.49.225.182:8080/kodicologne/48e237edd2/297200	
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Festive 8" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: EB Festive 8	
+http://37.49.225.182:8080/kodicologne/48e237edd2/297201	
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Festive Sofra" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: EB Festive Sofra	
+http://37.49.225.182:8080/kodicologne/48e237edd2/297202	
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Hits" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: EB Hits	
+http://37.49.225.182:8080/kodicologne/48e237edd2/297192	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Elkalem TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/9c67ae1d1da5485a41967e6429bf5f7d.jpg" tvg-id2="" group-title="🌍 Albania",AL: Elkalem TV	
+http://37.49.225.182:8080/kodicologne/48e237edd2/294445	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Episode" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Episode	
+http://37.49.225.182:8080/kodicologne/48e237edd2/169877	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Era TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/e4ca153def19020ce3be1bc6d5cf91c8.png" tvg-id2="" group-title="🌍 Albania",AL: Era TV	
+http://37.49.225.182:8080/kodicologne/48e237edd2/13864	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Euro Al" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5e5fbc5b4a9cbaf591b2dd67b81fb7f2.png" tvg-id2="" group-title="🌍 Albania",AL: Euro Al	
+http://37.49.225.182:8080/kodicologne/48e237edd2/42818	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Action AL" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: Filma24 Action AL	
+http://37.49.225.182:8080/kodicologne/48e237edd2/299888	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Adventure" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: Filma24 Adventure	
+http://37.49.225.182:8080/kodicologne/48e237edd2/299863	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Aksion" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: Filma24 Aksion	
+http://37.49.225.182:8080/kodicologne/48e237edd2/299864	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Animation" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: Filma24 Animation	
+http://37.49.225.182:8080/kodicologne/48e237edd2/299865	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Animuar AL" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: Filma24 Animuar AL	
+http://37.49.225.182:8080/kodicologne/48e237edd2/299889	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Aventure AL" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: Filma24 Aventure AL	
+http://37.49.225.182:8080/kodicologne/48e237edd2/299890	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Aziatik" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: Filma24 Aziatik	
+http://37.49.225.182:8080/kodicologne/48e237edd2/299866	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Biografi" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: Filma24 Biografi	
+http://37.49.225.182:8080/kodicologne/48e237edd2/299868	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Biografi AL" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: Filma24 Biografi AL	
+http://37.49.225.182:8080/kodicologne/48e237edd2/299891	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Dokumentar" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: Filma24 Dokumentar	
+http://37.49.225.182:8080/kodicologne/48e237edd2/299867	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Drama AL" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: Filma24 Drama AL	
+http://37.49.225.182:8080/kodicologne/48e237edd2/299895	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Drame" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: Filma24 Drame	
+http://37.49.225.182:8080/kodicologne/48e237edd2/299869	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Family" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: Filma24 Family	
+http://37.49.225.182:8080/kodicologne/48e237edd2/299870	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Fantasy AL" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: Filma24 Fantasy AL	
+http://37.49.225.182:8080/kodicologne/48e237edd2/299893	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Fantazi" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: Filma24 Fantazi	
+http://37.49.225.182:8080/kodicologne/48e237edd2/299871	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Hindi" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: Filma24 Hindi	
+http://37.49.225.182:8080/kodicologne/48e237edd2/299872	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Histori AL" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: Filma24 Histori AL	
+http://37.49.225.182:8080/kodicologne/48e237edd2/299896	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 History" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: Filma24 History	
+http://37.49.225.182:8080/kodicologne/48e237edd2/299874	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Hits" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: Filma24 Hits	
+http://37.49.225.182:8080/kodicologne/48e237edd2/299873	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Horror" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: Filma24 Horror	
+http://37.49.225.182:8080/kodicologne/48e237edd2/299875	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Komedi" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: Filma24 Komedi	
+http://37.49.225.182:8080/kodicologne/48e237edd2/299876	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Komedi AL" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: Filma24 Komedi AL	
+http://37.49.225.182:8080/kodicologne/48e237edd2/299894	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Krim" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: Filma24 Krim	
+http://37.49.225.182:8080/kodicologne/48e237edd2/299877	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Mister" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: Filma24 Mister	
+http://37.49.225.182:8080/kodicologne/48e237edd2/299878	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Mister AL" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: Filma24 Mister AL	
+http://37.49.225.182:8080/kodicologne/48e237edd2/299897	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Premiere" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: Filma24 Premiere	
+http://37.49.225.182:8080/kodicologne/48e237edd2/299880	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Premiere ALB" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: Filma24 Premiere ALB	
+http://37.49.225.182:8080/kodicologne/48e237edd2/299881	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Romance" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: Filma24 Romance	
+http://37.49.225.182:8080/kodicologne/48e237edd2/299882	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Romance AL" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: Filma24 Romance AL	
+http://37.49.225.182:8080/kodicologne/48e237edd2/299898	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 SCI-Fi" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: Filma24 SCI-Fi	
+http://37.49.225.182:8080/kodicologne/48e237edd2/299883	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Triller" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: Filma24 Triller	
+http://37.49.225.182:8080/kodicologne/48e237edd2/299884	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Turk" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: Filma24 Turk	
+http://37.49.225.182:8080/kodicologne/48e237edd2/299885	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 War" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: Filma24 War	
+http://37.49.225.182:8080/kodicologne/48e237edd2/299886	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Western" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: Filma24 Western	
+http://37.49.225.182:8080/kodicologne/48e237edd2/299887	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Flutra" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Flutra	
+http://37.49.225.182:8080/kodicologne/48e237edd2/280142	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Folklorit" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/36a7fecfaad1576730e88ef51e6003a1.jpg" tvg-id2="" group-title="🌍 Albania",AL: Folklorit	
+http://37.49.225.182:8080/kodicologne/48e237edd2/278192	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Frame TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/2b4d5c71e270a57e8de06689c6d2b71a.jpg" tvg-id2="" group-title="🌍 Albania",AL: Frame TV	
+http://37.49.225.182:8080/kodicologne/48e237edd2/281967	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Globi TV" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/dcf230fa8c6c1b0499b52ad97eabfc04.png" tvg-id2="" group-title="🌍 Albania",AL: Globi TV	
+http://37.49.225.182:8080/kodicologne/48e237edd2/280161	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Histori Shqiptare" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/26cc28df4182f9d45f2da7a98a813b77.png" tvg-id2="" group-title="🌍 Albania",AL: Histori Shqiptare	
+http://37.49.225.182:8080/kodicologne/48e237edd2/297048	
+#EXTINF:-1 tvg-id="" tvg-name="AL: HS Hore" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: HS Hore	
+http://37.49.225.182:8080/kodicologne/48e237edd2/299063	
+#EXTINF:-1 tvg-id="" tvg-name="AL: HS Tallava" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: HS Tallava	
+http://37.49.225.182:8080/kodicologne/48e237edd2/6715	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Istogu Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/6a7c815152522f3a3208afe0b759235d.png" tvg-id2="" group-title="🌍 Albania",AL: Istogu Channel	
+http://37.49.225.182:8080/kodicologne/48e237edd2/41305	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Korca Plus" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/a2777d3b5d9060d988bbe7c4075927fd.png" tvg-id2="" group-title="🌍 Albania",AL: Korca Plus	
+http://37.49.225.182:8080/kodicologne/48e237edd2/294434	
+#EXTINF:-1 tvg-id="" tvg-name="AL: KS Filma24 Aksion" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: KS Filma24 Aksion	
+http://37.49.225.182:8080/kodicologne/48e237edd2/297261	
+#EXTINF:-1 tvg-id="" tvg-name="AL: KS Filma24 Animacion" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: KS Filma24 Animacion	
+http://37.49.225.182:8080/kodicologne/48e237edd2/297262	
+#EXTINF:-1 tvg-id="" tvg-name="AL: KS Filma24 Aventure" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: KS Filma24 Aventure	
+http://37.49.225.182:8080/kodicologne/48e237edd2/297263	
+#EXTINF:-1 tvg-id="" tvg-name="AL: KS Filma24 Aziatika" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: KS Filma24 Aziatika	
+http://37.49.225.182:8080/kodicologne/48e237edd2/297264	
+#EXTINF:-1 tvg-id="" tvg-name="AL: KS Filma24 Biografi" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: KS Filma24 Biografi	
+http://37.49.225.182:8080/kodicologne/48e237edd2/297265	
+#EXTINF:-1 tvg-id="" tvg-name="AL: KS Filma24 Drame" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: KS Filma24 Drame	
+http://37.49.225.182:8080/kodicologne/48e237edd2/297266	
+#EXTINF:-1 tvg-id="" tvg-name="AL: KS Filma24 Familjar AL" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: KS Filma24 Familjar AL	
+http://37.49.225.182:8080/kodicologne/48e237edd2/299892	
+#EXTINF:-1 tvg-id="" tvg-name="AL: KS Filma24 Family" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: KS Filma24 Family	
+http://37.49.225.182:8080/kodicologne/48e237edd2/278247	
+#EXTINF:-1 tvg-id="" tvg-name="AL: KS Filma24 Hindi" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: KS Filma24 Hindi	
+http://37.49.225.182:8080/kodicologne/48e237edd2/299062	
+#EXTINF:-1 tvg-id="" tvg-name="AL: KS Filma24 Horror" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: KS Filma24 Horror	
+http://37.49.225.182:8080/kodicologne/48e237edd2/297268	
+#EXTINF:-1 tvg-id="" tvg-name="AL: KS Filma24 Krim" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: KS Filma24 Krim	
+http://37.49.225.182:8080/kodicologne/48e237edd2/297269	
+#EXTINF:-1 tvg-id="" tvg-name="AL: KS Filma24 Mister" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: KS Filma24 Mister	
+http://37.49.225.182:8080/kodicologne/48e237edd2/297270	
+#EXTINF:-1 tvg-id="" tvg-name="AL: KS Filma24 Mister ALB" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: KS Filma24 Mister ALB	
+http://37.49.225.182:8080/kodicologne/48e237edd2/299879	
+#EXTINF:-1 tvg-id="" tvg-name="AL: KS Filma24 Oscars" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: KS Filma24 Oscars	
+http://37.49.225.182:8080/kodicologne/48e237edd2/297271	
+#EXTINF:-1 tvg-id="" tvg-name="AL: KS Filma24 Premiere" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: KS Filma24 Premiere	
+http://37.49.225.182:8080/kodicologne/48e237edd2/278255	
+#EXTINF:-1 tvg-id="" tvg-name="AL: KS Filma24 Romance" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: KS Filma24 Romance	
+http://37.49.225.182:8080/kodicologne/48e237edd2/297273	
+#EXTINF:-1 tvg-id="" tvg-name="AL: KS Filma24 SCI-Fi" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: KS Filma24 SCI-Fi	
+http://37.49.225.182:8080/kodicologne/48e237edd2/297274	
+#EXTINF:-1 tvg-id="" tvg-name="AL: KS Filma24 Triller" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: KS Filma24 Triller	
+http://37.49.225.182:8080/kodicologne/48e237edd2/297275	
+#EXTINF:-1 tvg-id="" tvg-name="AL: KS Filma24 Western" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: KS Filma24 Western	
+http://37.49.225.182:8080/kodicologne/48e237edd2/297276	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Ks Premiere 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Ks Premiere 1	
+http://37.49.225.182:8080/kodicologne/48e237edd2/294446	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Ks Premiere 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Ks Premiere 2	
+http://37.49.225.182:8080/kodicologne/48e237edd2/281898	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Ks Premiere 3" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Ks Premiere 3	
+http://37.49.225.182:8080/kodicologne/48e237edd2/173465	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Ks Premiere 4" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Ks Premiere 4	
+http://37.49.225.182:8080/kodicologne/48e237edd2/173479	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Liria" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/673c8472334fe025d402e6a7bd594170.jpg" tvg-id2="" group-title="🌍 Albania",AL: Liria	
+http://37.49.225.182:8080/kodicologne/48e237edd2/163401	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Malisheva" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/e46b6ed47cc07f1864ac61c526e283d2.png" tvg-id2="" group-title="🌍 Albania",AL: Malisheva	
+http://37.49.225.182:8080/kodicologne/48e237edd2/198450	
+#EXTINF:-1 tvg-id="" tvg-name="AL: MetiTV Aksion" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: MetiTV Aksion	
+http://37.49.225.182:8080/kodicologne/48e237edd2/297277	
+#EXTINF:-1 tvg-id="" tvg-name="AL: MetiTV Comedy" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: MetiTV Comedy	
+http://37.49.225.182:8080/kodicologne/48e237edd2/297280	
+#EXTINF:-1 tvg-id="" tvg-name="AL: MetiTV Epic" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: MetiTV Epic	
+http://37.49.225.182:8080/kodicologne/48e237edd2/299900	
+#EXTINF:-1 tvg-id="" tvg-name="AL: MetiTV Femije" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: MetiTV Femije	
+http://37.49.225.182:8080/kodicologne/48e237edd2/299902	
+#EXTINF:-1 tvg-id="" tvg-name="AL: MetiTV Film" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: MetiTV Film	
+http://37.49.225.182:8080/kodicologne/48e237edd2/299901	
+#EXTINF:-1 tvg-id="" tvg-name="AL: MetiTV Folk" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: MetiTV Folk	
+http://37.49.225.182:8080/kodicologne/48e237edd2/297281	
+#EXTINF:-1 tvg-id="" tvg-name="AL: MetiTV Gold" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: MetiTV Gold	
+http://37.49.225.182:8080/kodicologne/48e237edd2/297282	
+#EXTINF:-1 tvg-id="" tvg-name="AL: MetiTV Horror" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: MetiTV Horror	
+http://37.49.225.182:8080/kodicologne/48e237edd2/297283	
+#EXTINF:-1 tvg-id="" tvg-name="AL: MetiTV Humor" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: MetiTV Humor	
+http://37.49.225.182:8080/kodicologne/48e237edd2/297284	
+#EXTINF:-1 tvg-id="" tvg-name="AL: MetiTV kids" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: MetiTV kids	
+http://37.49.225.182:8080/kodicologne/48e237edd2/297285	
+#EXTINF:-1 tvg-id="" tvg-name="AL: MetiTV lufte" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: MetiTV lufte	
+http://37.49.225.182:8080/kodicologne/48e237edd2/299899	
+#EXTINF:-1 tvg-id="" tvg-name="AL: MetiTV Max" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: MetiTV Max	
+http://37.49.225.182:8080/kodicologne/48e237edd2/297286	
+#EXTINF:-1 tvg-id="" tvg-name="AL: MetiTV Mixha" tvg-logo="" tvg-id2="" group-title="🌍 Albania",AL: MetiTV Mixha	
+http://37.49.225.182:8080/kodicologne/48e237edd2/299903	
+#EXTINF:-1 tvg-id="" tvg-name="AL: MetiTV Müzik:" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: MetiTV Müzik:	
+http://37.49.225.182:8080/kodicologne/48e237edd2/297287	
+#EXTINF:-1 tvg-id="" tvg-name="AL: MetiTV Shqip" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: MetiTV Shqip	
+http://37.49.225.182:8080/kodicologne/48e237edd2/297288	
+#EXTINF:-1 tvg-id="" tvg-name="AL: MetiTV Tallava" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: MetiTV Tallava	
+http://37.49.225.182:8080/kodicologne/48e237edd2/297289	
+#EXTINF:-1 tvg-id="" tvg-name="AL: MetiTV Çifteli" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: MetiTV Çifteli	
+http://37.49.225.182:8080/kodicologne/48e237edd2/297278	
+#EXTINF:-1 tvg-id="" tvg-name="AL: MetiTV çka ka shpija 24/7" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: MetiTV çka ka shpija 24/7	
+http://37.49.225.182:8080/kodicologne/48e237edd2/297279	
+#EXTINF:-1 tvg-id="" tvg-name="AL: MFM Müzik:" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a0d688a0c1b50a2ea7c5b8cca2c39b9f.jpg" tvg-id2="" group-title="🌍 Albania",AL: MFM Müzik:	
+http://37.49.225.182:8080/kodicologne/48e237edd2/45019	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Pollogu" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/c8314f63833192e4a9bf9c51c8081f5b.jpg" tvg-id2="" group-title="🌍 Albania",AL: Pollogu	
+http://37.49.225.182:8080/kodicologne/48e237edd2/264836	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Rozafa" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/66f956374d354d9bd40704f13010f5c9.jpg" tvg-id2="" group-title="🌍 Albania",AL: Rozafa	
+http://37.49.225.182:8080/kodicologne/48e237edd2/6730	
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTV Fontana" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/a67d5e2f46845ce13255e8d6dc631677.jpg" tvg-id2="" group-title="🌍 Albania",AL: RTV Fontana	
+http://37.49.225.182:8080/kodicologne/48e237edd2/282006	
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTV Ilirida" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/7d3c6b889ece36d060a2e4cb6fa7194c.jpg" tvg-id2="" group-title="🌍 Albania",AL: RTV Ilirida	
+http://37.49.225.182:8080/kodicologne/48e237edd2/284743	
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTV Islam" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/21baa2e87813273da6e0bb0f6df6b094.png" tvg-id2="" group-title="🌍 Albania",AL: RTV Islam	
+http://37.49.225.182:8080/kodicologne/48e237edd2/4089	
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTV Pendimi" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/14255559c4385fc106e11b98863b41b5.png" tvg-id2="" group-title="🌍 Albania",AL: RTV Pendimi	
+http://37.49.225.182:8080/kodicologne/48e237edd2/23783	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Saranda TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Saranda TV	
+http://37.49.225.182:8080/kodicologne/48e237edd2/297316	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Shenja TV" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/4f26930437a04b6f5635cbd51cdcd597.jpg" tvg-id2="" group-title="🌍 Albania",AL: Shenja TV	
+http://37.49.225.182:8080/kodicologne/48e237edd2/12414	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Sky Aksion" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Sky Aksion	
+http://37.49.225.182:8080/kodicologne/48e237edd2/295515	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Sky Comedy" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Sky Comedy	
+http://37.49.225.182:8080/kodicologne/48e237edd2/295516	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Sky Drama" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Sky Drama	
+http://37.49.225.182:8080/kodicologne/48e237edd2/295517	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Sky Max" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Sky Max	
+http://37.49.225.182:8080/kodicologne/48e237edd2/26127	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Sky Novela" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Sky Novela	
+http://37.49.225.182:8080/kodicologne/48e237edd2/16496	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Sky Star" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Sky Star	
+http://37.49.225.182:8080/kodicologne/48e237edd2/120818	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Sofia" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/f4321c4b3f2b6b952484e0dafe2c2f79.png" tvg-id2="" group-title="🌍 Albania",AL: Sofia	
+http://37.49.225.182:8080/kodicologne/48e237edd2/15539	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Sole TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Sole TV	
+http://37.49.225.182:8080/kodicologne/48e237edd2/15540	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Spin TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Spin TV	
+http://37.49.225.182:8080/kodicologne/48e237edd2/6714	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Syri TV" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/6f20fe69d514a9d0174c2b47bfeab307.jpg" tvg-id2="" group-title="🌍 Albania",AL: Syri TV	
+http://37.49.225.182:8080/kodicologne/48e237edd2/4099	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Syri Vizion" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/ab27229691e40672d4bed48c79b7209a.png" tvg-id2="" group-title="🌍 Albania",AL: Syri Vizion	
+http://37.49.225.182:8080/kodicologne/48e237edd2/120792	
+#EXTINF:-1 tvg-id="" tvg-name="AL: T Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/467332097ca9cb8ee909414e4c46ad8c.png" tvg-id2="" group-title="🌍 Albania",AL: T Channel	
+http://37.49.225.182:8080/kodicologne/48e237edd2/4101	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tele One 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Tele One 1	
+http://37.49.225.182:8080/kodicologne/48e237edd2/145897	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tele One 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Tele One 2	
+http://37.49.225.182:8080/kodicologne/48e237edd2/151734	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tele One 3" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Tele One 3	
+http://37.49.225.182:8080/kodicologne/48e237edd2/295522	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tele One 4" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Tele One 4	
+http://37.49.225.182:8080/kodicologne/48e237edd2/151732	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tele One 5" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Tele One 5	
+http://37.49.225.182:8080/kodicologne/48e237edd2/151737	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tele One 6" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Tele One 6	
+http://37.49.225.182:8080/kodicologne/48e237edd2/151733	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tele One Aksion" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Tele One Aksion	
+http://37.49.225.182:8080/kodicologne/48e237edd2/264853	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tele One Aventure" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Tele One Aventure	
+http://37.49.225.182:8080/kodicologne/48e237edd2/264852	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tele One Crime" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Tele One Crime	
+http://37.49.225.182:8080/kodicologne/48e237edd2/295523	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tele One Drama" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Tele One Drama	
+http://37.49.225.182:8080/kodicologne/48e237edd2/295524	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tele One Epik" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Tele One Epik	
+http://37.49.225.182:8080/kodicologne/48e237edd2/299079	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tele One Fantazi" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Tele One Fantazi	
+http://37.49.225.182:8080/kodicologne/48e237edd2/295525	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tele One Gold Collection" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Tele One Gold Collection	
+http://37.49.225.182:8080/kodicologne/48e237edd2/247862	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Televizija 5" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Televizija 5	
+http://37.49.225.182:8080/kodicologne/48e237edd2/299081	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Televizioni TV R" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Televizioni TV R	
+http://37.49.225.182:8080/kodicologne/48e237edd2/299080	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tema TV" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/daf495b8c3cdc589507ea2c265276313.jpg" tvg-id2="" group-title="🌍 Albania",AL: Tema TV	
+http://37.49.225.182:8080/kodicologne/48e237edd2/4102	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Teuta" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/266e2b70af63c6ff133f48d7a30f05df.png" tvg-id2="" group-title="🌍 Albania",AL: Teuta	
+http://37.49.225.182:8080/kodicologne/48e237edd2/169882	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Teve Aksion" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Teve Aksion	
+http://37.49.225.182:8080/kodicologne/48e237edd2/299051	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Teve Comedy" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Teve Comedy	
+http://37.49.225.182:8080/kodicologne/48e237edd2/299053	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Teve Doku 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Teve Doku 1	
+http://37.49.225.182:8080/kodicologne/48e237edd2/299055	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Teve Doku 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Teve Doku 2	
+http://37.49.225.182:8080/kodicologne/48e237edd2/299056	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Teve Fantasy" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Teve Fantasy	
+http://37.49.225.182:8080/kodicologne/48e237edd2/299052	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Teve Novela" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Teve Novela	
+http://37.49.225.182:8080/kodicologne/48e237edd2/299050	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Teve Shqip" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Teve Shqip	
+http://37.49.225.182:8080/kodicologne/48e237edd2/299054	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tom & Jerry" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Tom & Jerry	
+http://37.49.225.182:8080/kodicologne/48e237edd2/15543	
+#EXTINF:-1 tvg-id="" tvg-name="AL: TOP Estrada" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/fec89bed74110b33f5749de83b0d9088.png" tvg-id2="" group-title="🌍 Albania",AL: TOP Estrada	
+http://37.49.225.182:8080/kodicologne/48e237edd2/16502	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tropoja" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: Tropoja	
+http://37.49.225.182:8080/kodicologne/48e237edd2/266657	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Turbo Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/0bdf077edf9f205d7800794a87c99b35.png" tvg-id2="" group-title="🌍 Albania",AL: Turbo Channel	
+http://37.49.225.182:8080/kodicologne/48e237edd2/6717	
+#EXTINF:-1 tvg-id="" tvg-name="AL: TV 7 Albania" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/51eb803884779e9133a759ca77d143b0.png" tvg-id2="" group-title="🌍 Albania",AL: TV 7 Albania	
+http://37.49.225.182:8080/kodicologne/48e237edd2/6762	
+#EXTINF:-1 tvg-id="" tvg-name="AL: TV DiaOversporta" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: TV DiaOversporta	
+http://37.49.225.182:8080/kodicologne/48e237edd2/281350	
+#EXTINF:-1 tvg-id="" tvg-name="AL: TV Dielli" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/fe3b554c186d7250608586118d158ffc.png" tvg-id2="" group-title="🌍 Albania",AL: TV Dielli	
+http://37.49.225.182:8080/kodicologne/48e237edd2/12418	
+#EXTINF:-1 tvg-id="" tvg-name="AL: TV Festina" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/288907e30468430bbb12800e16cd6c71.png" tvg-id2="" group-title="🌍 Albania",AL: TV Festina	
+http://37.49.225.182:8080/kodicologne/48e237edd2/297260	
+#EXTINF:-1 tvg-id="" tvg-name="AL: TV Kopliku" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/27a583c58d8f59b668672b6e56878ee8.jpg" tvg-id2="" group-title="🌍 Albania",AL: TV Kopliku	
+http://37.49.225.182:8080/kodicologne/48e237edd2/173458	
+#EXTINF:-1 tvg-id="" tvg-name="AL: TV Mitrovica" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ac3961e6a01fb2835eaf8d2e37294eb9.jpg" tvg-id2="" group-title="🌍 Albania",AL: TV Mitrovica	
+http://37.49.225.182:8080/kodicologne/48e237edd2/4118	
+#EXTINF:-1 tvg-id="" tvg-name="AL: TV Opoja" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6b8e20e7506a44c0e98dafdcfec30c35.jpg" tvg-id2="" group-title="🌍 Albania",AL: TV Opoja	
+http://37.49.225.182:8080/kodicologne/48e237edd2/4119	
+#EXTINF:-1 tvg-id="" tvg-name="AL: TV Sharri" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/03bf7ee22afa23be577be153f1748038.png" tvg-id2="" group-title="🌍 Albania",AL: TV Sharri	
+http://37.49.225.182:8080/kodicologne/48e237edd2/12416	
+#EXTINF:-1 tvg-id="" tvg-name="AL: TV Uskana" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4e3321ac3a41d9c75471c2c4f590bd35.jpg" tvg-id2="" group-title="🌍 Albania",AL: TV Uskana	
+http://37.49.225.182:8080/kodicologne/48e237edd2/12421	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Ulqini TV" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/ee01d1a99027efc24690efee61da8574.jpg" tvg-id2="" group-title="🌍 Albania",AL: Ulqini TV	
+http://37.49.225.182:8080/kodicologne/48e237edd2/278582	
+#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Aksion" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: WebStar Aksion	
+http://37.49.225.182:8080/kodicologne/48e237edd2/193709	
+#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Baby" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: WebStar Baby	
+http://37.49.225.182:8080/kodicologne/48e237edd2/299090	
+#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar ChuChu" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: WebStar ChuChu	
+http://37.49.225.182:8080/kodicologne/48e237edd2/193708	
+#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Film 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: WebStar Film 1	
+http://37.49.225.182:8080/kodicologne/48e237edd2/193704	
+#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Film 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: WebStar Film 2	
+http://37.49.225.182:8080/kodicologne/48e237edd2/295534	
+#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Film 3" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: WebStar Film 3	
+http://37.49.225.182:8080/kodicologne/48e237edd2/295535	
+#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Film Cinema" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: WebStar Film Cinema	
+http://37.49.225.182:8080/kodicologne/48e237edd2/297311	
+#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Film Drame" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: WebStar Film Drame	
+http://37.49.225.182:8080/kodicologne/48e237edd2/297312	
+#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Film Komedi" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: WebStar Film Komedi	
+http://37.49.225.182:8080/kodicologne/48e237edd2/297313	
+#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Film Thriller" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: WebStar Film Thriller	
+http://37.49.225.182:8080/kodicologne/48e237edd2/297314	
+#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Hisrori" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: WebStar Hisrori	
+http://37.49.225.182:8080/kodicologne/48e237edd2/299085	
+#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Müzik:" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: WebStar Müzik:	
+http://37.49.225.182:8080/kodicologne/48e237edd2/193697	
+#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Müzik: CH" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: WebStar Müzik: CH	
+http://37.49.225.182:8080/kodicologne/48e237edd2/193698	
+#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Natyr" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: WebStar Natyr	
+http://37.49.225.182:8080/kodicologne/48e237edd2/297315	
+#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Popullore" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: WebStar Popullore	
+http://37.49.225.182:8080/kodicologne/48e237edd2/193694	
+#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Qifteli" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: WebStar Qifteli	
+http://37.49.225.182:8080/kodicologne/48e237edd2/193693	
+#EXTINF:-1 tvg-id="" tvg-name="AL: X Premiere 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="🌍 Albania",AL: X Premiere 2	
+http://37.49.225.182:8080/kodicologne/48e237edd2/40535	
+#EXTINF:-1 tvg-id="" tvg-name="AL: Zeri" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/8c2d1ddfc18a6a78918c648425bce3e7.png" tvg-id2="" group-title="🌍 Albania",AL: Zeri	
+	
